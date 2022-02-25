@@ -5,8 +5,8 @@ import requests
 import csv
 import datetime
 
-STARTS_NUMBER = 45000
-HEADER = ['Project Name', 'URL', 'Language', 'Forks', 'Watchers', 'Size Byte', 'Contributors', 'Stars', 'Topics']
+STARTS_NUMBER = 40000
+HEADER = ['Project Name', 'URL', 'Language', 'Forks', 'Watchers', 'Size Byte', 'Stars', 'Topics'] # , 'Contributors'
 
 
 # contributors_url
@@ -40,14 +40,15 @@ def procces_item(items):
         url = item['html_url']
         # "languages_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/languages",
         language = item['language']
+        if language is None:
+            continue
         forks = item['forks']
         watchers = item['watchers']
         size = item['size']
-        contributors = count_contributors(item['contributors_url'])
+        # contributors = count_contributors(item['contributors_url'])
         stars = item['stargazers_count']
         topic = f"{item['topics']}"
-        data.append([project_name, url, language, forks, watchers, size, contributors, stars, topic])
-        print(data)
+        data.append([project_name, url, language, forks, watchers, size, stars, topic]) #, contributors
     return data
 
 
@@ -56,15 +57,17 @@ def count_contributors(contributor_url):
     # {contributor_url}?per_page=100&page={page}
     res = requests.get(f"{contributor_url}?per_page=1&anon=true")
     if res.status_code != 200:  # curl -u "username" https://api.github.com
-        print(f"Contributor Status Code {res.status_code}")
+        print(F"Contributor Status Code {res.status_code}")
         exit(1)
-    res.headers['link']
+
+    link = res.headers['link']
+    count = int(link.split("page=")[-1].split(">")[0])
 
     return count
 
 
 def write_in_csv(data, page, filename):
-    with open(filename, 'w', encoding='UTF8', newline='') as f:
+    with open(filename, 'a+', encoding='UTF8', newline='') as f:
         writer = csv.writer(f)
         if page == 1:
             print("Hearer Writing")
@@ -76,11 +79,11 @@ def write_in_csv(data, page, filename):
 if __name__ == '__main__':
 
     date = datetime.datetime.now()
-    filename = f"{date.strftime('%x')}-{date.strftime('%X')}.csv"
+    filename = f"{date.month}-{date.day}-{date.year}_{date.strftime('%X')}.csv"
     page = 1
     while True:
         print(f"Start Page {page}")
-        url = f"https://api.github.com/search/repositories?per_page=100&page={page}&q=stars%3A>{STARTS_NUMBER}"
+        url = f"https://api.github.com/search/repositories?per_page=50&page={page}&q=stars%3A>{STARTS_NUMBER}"
         res = GetGitHub(url)
 
         if len(res.response_items) == 0:
@@ -90,3 +93,4 @@ if __name__ == '__main__':
         data = procces_item(res.response_items)
         write_in_csv(data, page, filename)
         page += 1
+
