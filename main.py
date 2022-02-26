@@ -53,25 +53,27 @@ def procces_item(items, http_headers):
         stars = item['stargazers_count']
         topic = f"{item['topics']}"
         data.append([project_name, url, language, forks, watchers, size, stars, topic, contributors])
-        time.sleep(2)
+
     return data
 
 
 def count_contributors(contributor_url, http_headers):
-    count = 0
-    # {contributor_url}?per_page=100&page={page}
-    res = requests.get(f"{contributor_url}?per_page=1&anon=true", headers=http_headers)
+    try:
+        # {contributor_url}?per_page=100&page={page}
+        res = requests.get(f"{contributor_url}?per_page=1&anon=true", headers=http_headers)
 
-    if res.status_code != 200:  # curl -u "username" https://api.github.com
-        print(F"Contributor Status Code {res.status_code}")
+        if res.status_code != 200:  # curl -u "username" https://api.github.com
+            print(F"Contributor Status Code {res.status_code}")
+            exit(1)
+
+        link = res.headers['link']
+        count = int(link.split("page=")[-1].split(">")[0])
+        print(count)
+        # print(res.headers)
+        return count
+    except Exception as e:
+        print(f"Error Message {e}")
         exit(1)
-
-    link = res.headers['link']
-    count = int(link.split("page=")[-1].split(">")[0])
-    print(count)
-    # print(res.headers)
-
-    return count
 
 
 def write_in_csv(data, page, filename):
@@ -83,6 +85,7 @@ def write_in_csv(data, page, filename):
         writer.writerows(data)
         print(data)
         print(f"================= write done in {page} ==========================")
+        time.sleep(5)
 
 
 if __name__ == '__main__':
@@ -92,7 +95,7 @@ if __name__ == '__main__':
     # f"{date.month}-{date.day}-{date.year}_{date.strftime('%X')}.csv"
     filename = "item_data.csv"
     per_page = 1
-    page = 1
+    page = 23  # page 22 has problem
 
     while True:
         print(f"Start Page {page}")
@@ -106,8 +109,7 @@ if __name__ == '__main__':
         data = procces_item(res.response_items, http_headers)
         write_in_csv(data, page, filename)
 
-        if page % 20 == 0:
-            time.sleep(100)
+        if page % 21 == 0:
+            time.sleep(60)
 
         page += 1
-

@@ -1,0 +1,104 @@
+Project Name,URL,Language,Forks,Watchers,Size Byte,Stars,Topics,Contributors
+freeCodeCamp/freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,JavaScript,28062,341270,298544,341270,"['careers', 'certification', 'community', 'curriculum', 'd3', 'education', 'freecodecamp', 'hacktoberfest', 'javascript', 'learn-to-code', 'math', 'nodejs', 'nonprofits', 'programming', 'react', 'teachers']",4818
+vuejs/vue,https://github.com/vuejs/vue,JavaScript,31510,193347,27813,193347,"['framework', 'frontend', 'javascript', 'vue']",337
+kamranahmedse/developer-roadmap,https://github.com/kamranahmedse/developer-roadmap,TypeScript,26949,187065,108839,187065,"['angular-roadmap', 'backend-roadmap', 'computer-science', 'dba-roadmap', 'developer-roadmap', 'devops-roadmap', 'engineering', 'frontend-roadmap', 'go-roadmap', 'java-roadmap', 'python-roadmap', 'react-roadmap', 'roadmap', 'study-plan']",99
+facebook/react,https://github.com/facebook/react,JavaScript,37352,182973,175624,182973,"['declarative', 'frontend', 'javascript', 'library', 'react', 'ui']",1704
+public-apis/public-apis,https://github.com/public-apis/public-apis,Python,20999,181760,4801,181760,"['api', 'apis', 'dataset', 'development', 'free', 'list', 'lists', 'open-source', 'public', 'public-api', 'public-apis', 'resources', 'software']",1361
+donnemartin/system-design-primer,https://github.com/donnemartin/system-design-primer,Python,30360,164043,11154,164043,"['design', 'design-patterns', 'design-system', 'development', 'interview', 'interview-practice', 'interview-questions', 'programming', 'python', 'system', 'web', 'web-application', 'webapp']",113
+tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,C++,86409,163134,861429,163134,"['deep-learning', 'deep-neural-networks', 'distributed', 'machine-learning', 'ml', 'neural-network', 'python', 'tensorflow']",3925
+twbs/bootstrap,https://github.com/twbs/bootstrap,JavaScript,76198,155621,196651,155621,"['bootstrap', 'css', 'css-framework', 'html', 'javascript', 'sass', 'scss']",1508
+ohmyzsh/ohmyzsh,https://github.com/ohmyzsh/ohmyzsh,Shell,23688,141228,9375,141228,"['cli', 'cli-app', 'hacktoberfest', 'plugin-framework', 'plugins', 'productivity', 'shell', 'terminal', 'theme', 'themes', 'zsh', 'zsh-configuration']",2243
+flutter/flutter,https://github.com/flutter/flutter,Dart,20843,136873,185132,136873,"['android', 'app-framework', 'dart', 'dart-platform', 'desktop', 'fuchsia', 'ios', 'linux-desktop', 'macos', 'material-design', 'mobile', 'skia', 'web', 'web-framework', 'windows']",1061
+trekhleb/javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,JavaScript,22444,135977,4417,135977,"['algorithm', 'algorithms', 'computer-science', 'data-structures', 'interview', 'interview-preparation', 'javascript', 'javascript-algorithms']",196
+TheAlgorithms/Python,https://github.com/TheAlgorithms/Python,Python,34355,129782,12571,129782,"['algorithm', 'algorithm-competitions', 'algorithms-implemented', 'algos', 'community-driven', 'education', 'hacktoberfest', 'interview', 'learn', 'practice', 'python', 'searches', 'sorting-algorithms', 'sorts']",829
+microsoft/vscode,https://github.com/microsoft/vscode,TypeScript,21669,128136,462602,128136,"['editor', 'electron', 'microsoft', 'typescript', 'visual-studio-code']",1966
+airbnb/javascript,https://github.com/airbnb/javascript,JavaScript,22886,119764,3465,119764,"['arrow-functions', 'es2015', 'es2016', 'es2017', 'es2018', 'es6', 'eslint', 'javascript', 'linting', 'naming-conventions', 'style-guide', 'style-linter', 'styleguide', 'tc39']",528
+vinta/awesome-python,https://github.com/vinta/awesome-python,Python,20751,117689,6616,117689,"['awesome', 'collections', 'python', 'python-framework', 'python-library', 'python-resources']",416
+Snailclimb/JavaGuide,https://github.com/Snailclimb/JavaGuide,Java,40035,117525,146244,117525,"['algorithms', 'interview', 'java', 'jvm', 'mysql', 'redis', 'spring', 'system', 'system-design', 'zookeeper']",339
+jackfrued/Python-100-Days,https://github.com/jackfrued/Python-100-Days,Python,44688,115247,308945,115247,[],14
+ytdl-org/youtube-dl,https://github.com/ytdl-org/youtube-dl,Python,7181,106591,63988,106591,[],968
+labuladong/fucking-algorithm,https://github.com/labuladong/fucking-algorithm,Markdown,20281,102749,109861,102749,"['algorithms', 'computer-science', 'data-structures', 'dynamic-programming', 'dynamic-programming-algorithm', 'interview-questions', 'kmp', 'leetcode']",84
+facebook/react-native,https://github.com/facebook/react-native,JavaScript,21796,101343,846137,101343,[],3103
+electron/electron,https://github.com/electron/electron,C++,13226,100467,112275,100467,"['c-plus-plus', 'chrome', 'css', 'electron', 'html', 'javascript', 'nodejs', 'v8', 'works-with-codespaces']",1276
+d3/d3,https://github.com/d3/d3,JavaScript,22974,100424,42260,100424,"['chart', 'charts', 'data-visualization', 'svg', 'visualization']",136
+golang/go,https://github.com/golang/go,Go,14312,95802,290358,95802,"['go', 'golang', 'language', 'programming-language']",2146
+facebook/create-react-app,https://github.com/facebook/create-react-app,JavaScript,23986,93601,21811,93601,"['build-tools', 'react', 'zero-configuration']",917
+30-seconds/30-seconds-of-code,https://github.com/30-seconds/30-seconds-of-code,JavaScript,9819,92479,28581,92479,"['awesome-list', 'education', 'es6-javascript', 'javascript', 'learn-to-code', 'learning-resources', 'nodejs', 'programming', 'snippets', 'snippets-collection']",288
+axios/axios,https://github.com/axios/axios,JavaScript,9256,91350,4937,91350,"['hacktoberfest', 'http-client', 'javascript', 'nodejs', 'promise']",323
+kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,Go,31515,85843,1058280,85843,"['cncf', 'containers', 'go', 'kubernetes']",4259
+nodejs/node,https://github.com/nodejs/node,JavaScript,22869,85801,793576,85801,"['javascript', 'js', 'linux', 'macos', 'mit', 'node', 'nodejs', 'runtime', 'windows']",3433
+vercel/next.js,https://github.com/vercel/next.js,JavaScript,16993,82037,1741543,82037,"['blog', 'browser', 'compiler', 'components', 'hybrid', 'nextjs', 'node', 'react', 'server-rendering', 'ssg', 'static', 'static-site-generator', 'universal', 'vercel']",2125
+microsoft/terminal,https://github.com/microsoft/terminal,C++,7230,81140,106080,81140,"['cmd', 'command-line', 'console', 'terminal', 'windows-console', 'windows-terminal', 'wsl']",324
+denoland/deno,https://github.com/denoland/deno,Rust,4303,80529,53794,80529,"['deno', 'javascript', 'rust', 'typescript']",683
+angular/angular,https://github.com/angular/angular,TypeScript,20988,79794,372972,79794,"['angular', 'javascript', 'pwa', 'typescript', 'web', 'web-framework', 'web-performance']",1730
+mrdoob/three.js,https://github.com/mrdoob/three.js,JavaScript,30755,79452,1141938,79452,"['3d', 'augmented-reality', 'canvas', 'html5', 'javascript', 'svg', 'virtual-reality', 'webaudio', 'webgl', 'webgl2', 'webgpu', 'webxr']",1946
+awesome-selfhosted/awesome-selfhosted,https://github.com/awesome-selfhosted/awesome-selfhosted,JavaScript,5432,78402,14367,78402,"['awesome', 'awesome-list', 'cloud', 'hosting', 'privacy', 'self-hosted', 'selfhosted']",1081
+ant-design/ant-design,https://github.com/ant-design/ant-design,TypeScript,32698,78349,797626,78349,"['ant-design', 'antd', 'design-systems', 'react', 'typescript', 'ui-kit', 'ui-library']",1784
+microsoft/TypeScript,https://github.com/microsoft/TypeScript,TypeScript,10274,78348,1672453,78348,"['javascript', 'language', 'typechecker', 'typescript']",700
+puppeteer/puppeteer,https://github.com/puppeteer/puppeteer,TypeScript,8137,76473,32454,76473,"['automation', 'developer-tools', 'headless-chrome', 'node-module', 'testing', 'web']",408
+avelino/awesome-go,https://github.com/avelino/awesome-go,Go,9539,75948,14486,75948,"['awesome', 'awesome-list', 'go', 'golang', 'golang-library', 'hacktoberfest']",1778
+mui/material-ui,https://github.com/mui/material-ui,JavaScript,26203,75847,277709,75847,"['design-systems', 'hacktoberfest', 'javascript', 'material-design', 'react', 'react-components', 'typescript']",2692
+goldbergyoni/nodebestpractices,https://github.com/goldbergyoni/nodebestpractices,JavaScript,7722,75402,61837,75402,"['best-practices', 'es6', 'eslint', 'express', 'expressjs', 'javascript', 'jest', 'microservices', 'mocha', 'node-js', 'nodejs', 'nodejs-development', 'npm', 'rest', 'style-guide', 'styleguide', 'testing', 'types']",230
+PanJiaChen/vue-element-admin,https://github.com/PanJiaChen/vue-element-admin,Vue,26958,74302,15437,74302,"['admin', 'admin-dashboard', 'admin-template', 'axios', 'dashboard', 'desktop', 'element', 'element-ui', 'i18n', 'management-system', 'mock', 'tinymce', 'vue', 'vue-admin', 'vue-cli', 'vuex', 'webpack', 'webpack4', 'xlsx']",124
+animate-css/animate.css,https://github.com/animate-css/animate.css,CSS,16070,73766,1848,73766,"['animation', 'css', 'css-animations', 'stylesheets']",129
+iluwatar/java-design-patterns,https://github.com/iluwatar/java-design-patterns,Java,22799,73218,28238,73218,"['awesome-list', 'design-patterns', 'hacktoberfest', 'java', 'principles', 'snippets', 'snippets-collection', 'snippets-library']",310
+tensorflow/models,https://github.com/tensorflow/models,Python,45520,72881,591225,72881,[],851
+MisterBooo/LeetCodeAnimation,https://github.com/MisterBooo/LeetCodeAnimation,Java,13313,69113,509807,69113,"['animation', 'leetcode', 'leetcode-c', 'leetcode-java', 'leetcode-solutions']",20
+microsoft/PowerToys,https://github.com/microsoft/PowerToys,C#,3885,69076,286630,69076,"['color-picker', 'desktop', 'fancyzones', 'keyboard-manager', 'microsoft-powertoys', 'powerrename', 'powertoys', 'windows']",293
+storybookjs/storybook,https://github.com/storybookjs/storybook,TypeScript,7137,69004,473115,69004,"['angular', 'components', 'design-systems', 'documentation', 'ember', 'html', 'javascript', 'polymer', 'react', 'react-native', 'storybook', 'styleguide', 'svelte', 'testing', 'typescript', 'ui', 'ui-components', 'vue', 'web-components', 'webpack']",1691
+FortAwesome/Font-Awesome,https://github.com/FortAwesome/Font-Awesome,JavaScript,11952,68799,86963,68799,"['css', 'font', 'fontawesome', 'icons', 'svg-icons', 'svg-sprites', 'webfont']",2
+laravel/laravel,https://github.com/laravel/laravel,PHP,22241,68787,10380,68787,"['framework', 'laravel', 'php']",735
+nvbn/thefuck,https://github.com/nvbn/thefuck,Python,3081,66956,4087,66956,"['python', 'shell']",185
+yangshun/tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,JavaScript,9212,66418,6822,66418,"['algorithm', 'algorithm-interview', 'algorithm-interview-questions', 'algorithms', 'behavioral-interviews', 'coding-interviews', 'interview-practice', 'interview-preparation', 'interview-questions', 'system-design']",109
+ryanmcdermott/clean-code-javascript,https://github.com/ryanmcdermott/clean-code-javascript,JavaScript,8482,64320,574,64320,"['best-practices', 'clean-architecture', 'clean-code', 'composition', 'inheritance', 'javascript', 'principles']",117
+gothinkster/realworld,https://github.com/gothinkster/realworld,Shell,5884,63951,3410,63951,[],78
+rust-lang/rust,https://github.com/rust-lang/rust,Rust,8873,63839,779721,63839,"['compiler', 'language', 'rust']",4810
+django/django,https://github.com/django/django,Python,26645,62585,221244,62585,"['apps', 'django', 'framework', 'models', 'orm', 'python', 'templates', 'views', 'web']",2675
+moby/moby,https://github.com/moby/moby,Go,17969,62275,178179,62275,"['containers', 'docker', 'go']",2347
+tonsky/FiraCode,https://github.com/tonsky/FiraCode,Clojure,2763,62228,91168,62228,"['font', 'ligatures', 'programming-ligatures']",106
+bitcoin/bitcoin,https://github.com/bitcoin/bitcoin,C++,31680,62135,196805,62135,"['bitcoin', 'c-plus-plus', 'cryptocurrency', 'cryptography', 'p2p']",1045
+Genymobile/scrcpy,https://github.com/Genymobile/scrcpy,C,6570,61764,4036,61764,"['android', 'c', 'ffmpeg', 'libav', 'mirroring', 'recording', 'screen', 'sdl2']",103
+doocs/advanced-java,https://github.com/doocs/advanced-java,Java,16642,61028,28696,61028,"['advanced-java', 'distributed-search-engine', 'distributed-systems', 'doocs', 'dubbo', 'elasticsearch', 'eureka', 'feign', 'high-availability', 'high-concurrency', 'hystrix', 'java', 'message-queue', 'microservices-architecture', 'redis', 'ribbon', 'rpc', 'spring-cloud', 'springcloud-config', 'zookeeper']",35
+webpack/webpack,https://github.com/webpack/webpack,JavaScript,8227,60547,56668,60547,"['amd', 'build-tool', 'commonjs', 'compiler', 'es2015', 'es6', 'esm', 'javascript', 'javascript-compiler', 'javascript-modules', 'loaders', 'module-bundler', 'plugins', 'web', 'web-performance', 'webpack']",805
+opencv/opencv,https://github.com/opencv/opencv,C++,50344,59915,504469,59915,"['c-plus-plus', 'computer-vision', 'deep-learning', 'image-processing', 'opencv']",1871
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot,Java,35723,59795,146971,59795,"['framework', 'java', 'spring', 'spring-boot']",1080
+typicode/json-server,https://github.com/typicode/json-server,JavaScript,5823,59768,2721,59768,[],76
+angular/angular.js,https://github.com/angular/angular.js,JavaScript,28394,59524,101603,59524,[],1849
+apple/swift,https://github.com/apple/swift,C++,9438,58787,777555,58787,[],1132
+elastic/elasticsearch,https://github.com/elastic/elasticsearch,Java,21327,58635,961328,58635,"['elasticsearch', 'java', 'search-engine']",1853
+huggingface/transformers,https://github.com/huggingface/transformers,Python,13856,58618,89546,58618,"['bert', 'deep-learning', 'flax', 'hacktoberfest', 'jax', 'language-model', 'language-models', 'machine-learning', 'model-hub', 'natural-language-processing', 'nlp', 'nlp-library', 'pretrained-models', 'python', 'pytorch', 'pytorch-transformers', 'seq2seq', 'speech-recognition', 'tensorflow', 'transformer']",1163
+hakimel/reveal.js,https://github.com/hakimel/reveal.js,JavaScript,16032,58567,17818,58567,"['presentations', 'slides', 'slideshow']",323
+netdata/netdata,https://github.com/netdata/netdata,C,5199,58134,84955,58134,"['alerting', 'analytics', 'cncf', 'containers', 'dashboard', 'devops', 'docker', 'grafana', 'graphing', 'graphite', 'influxdb', 'iot', 'kubernetes', 'monitoring', 'netdata', 'notifications', 'observability', 'prometheus', 'statsd', 'time-series']",533
+pallets/flask,https://github.com/pallets/flask,Python,14877,58090,8980,58090,"['flask', 'jinja', 'pallets', 'python', 'web-framework', 'werkzeug', 'wsgi']",757
+reduxjs/redux,https://github.com/reduxjs/redux,TypeScript,15109,57554,25375,57554,['redux'],921
+gohugoio/hugo,https://github.com/gohugoio/hugo,Go,6487,57290,108395,57290,"['blog-engine', 'cms', 'content-management-system', 'documentation-tool', 'go', 'hacktoberfest', 'hugo', 'static-site-generator']",778
+atom/atom,https://github.com/atom/atom,JavaScript,16893,56871,328927,56871,"['atom', 'editor', 'electron', 'javascript', 'linux', 'macos', 'windows']",626
+kdn251/interviews,https://github.com/kdn251/interviews,Java,11931,56325,24091,56325,"['algorithm', 'algorithm-challenges', 'algorithm-competitions', 'algorithms', 'coding-challenge', 'coding-challenges', 'coding-interview', 'coding-interviews', 'interview', 'interview-practice', 'interview-prep', 'interview-preparation', 'interview-questions', 'interviews', 'java', 'leetcode', 'leetcode-java', 'leetcode-questions', 'leetcode-solutions', 'technical-coding-interview']",42
+chartjs/Chart.js,https://github.com/chartjs/Chart.js,JavaScript,11378,56280,35208,56280,"['canvas', 'chart', 'graph', 'hacktoberfest', 'html5', 'html5-charts', 'javascript']",427
+sveltejs/svelte,https://github.com/sveltejs/svelte,TypeScript,2753,56263,68312,56263,"['compiler', 'template', 'ui']",512
+macrozheng/mall,https://github.com/macrozheng/mall,Java,23938,56212,57609,56212,"['docker', 'elasticsearch', 'elk', 'java', 'mongodb', 'mybatis', 'mysql', 'rabbitmq', 'redis', 'spring', 'spring-boot', 'spring-cloud', 'spring-security', 'springboot', 'springcloud', 'swagger-ui']",2
+expressjs/express,https://github.com/expressjs/express,JavaScript,9509,56089,9364,56089,"['express', 'javascript', 'nodejs', 'server']",301
+jquery/jquery,https://github.com/jquery/jquery,JavaScript,20282,55896,31125,55896,['jquery'],331
+gin-gonic/gin,https://github.com/gin-gonic/gin,Go,6321,55883,2728,55883,"['framework', 'gin', 'go', 'middleware', 'performance', 'router', 'server']",361
+nvm-sh/nvm,https://github.com/nvm-sh/nvm,Shell,5836,55665,3355,55665,"['bash', 'install', 'lts', 'node', 'node-js', 'nodejs', 'nvm', 'nvmrc', 'posix', 'posix-compliant', 'shell', 'version-manager', 'zsh']",346
+socketio/socket.io,https://github.com/socketio/socket.io,TypeScript,9981,55294,15186,55294,[],203
+adam-p/markdown-here,https://github.com/adam-p/markdown-here,JavaScript,10546,54481,16032,54481,[],12
+pytorch/pytorch,https://github.com/pytorch/pytorch,C++,15014,54199,747143,54199,"['autograd', 'deep-learning', 'gpu', 'machine-learning', 'neural-network', 'numpy', 'python', 'tensor']",3116
+keras-team/keras,https://github.com/keras-team/keras,Python,19003,54079,22245,54079,"['data-science', 'deep-learning', 'machine-learning', 'neural-networks', 'python', 'tensorflow']",1034
+tailwindlabs/tailwindcss,https://github.com/tailwindlabs/tailwindcss,JavaScript,2637,53972,65353,53972,"['css', 'css-framework', 'functional-css', 'postcss', 'responsive', 'tailwindcss', 'utility-classes']",215
+shadowsocks/shadowsocks-windows,https://github.com/shadowsocks/shadowsocks-windows,C#,16267,53913,13485,53913,"['c-sharp', 'proxy', 'shadowsocks']",87
+redis/redis,https://github.com/redis/redis,C,20791,53671,111723,53671,[],651
+fatedier/frp,https://github.com/fatedier/frp,Go,9768,53651,25044,53651,"['expose', 'firewall', 'frp', 'go', 'http-proxy', 'nat', 'proxy', 'reverse-proxy', 'tunnel']",82
+ripienaar/free-for-dev,https://github.com/ripienaar/free-for-dev,HTML,5835,53506,5634,53506,[],1249
+josephmisiti/awesome-machine-learning,https://github.com/josephmisiti/awesome-machine-learning,Python,13115,53321,5019,53321,[],554
+papers-we-love/papers-we-love,https://github.com/papers-we-love/papers-we-love,Shell,4439,53268,229161,53268,"['awesome', 'computer-science', 'meetup', 'papers', 'programming', 'read-papers', 'theory']",270
+protocolbuffers/protobuf,https://github.com/protocolbuffers/protobuf,C++,13749,53198,90312,53198,"['marshalling', 'protobuf', 'protobuf-runtime', 'protoc', 'protocol-buffers', 'protocol-compiler', 'rpc', 'serialization']",926
+coder/code-server,https://github.com/coder/code-server,TypeScript,4306,51841,50049,51841,"['browser-ide', 'dev-tools', 'development-environment', 'ide', 'remote-work', 'vscode', 'vscode-remote']",167
+chrislgarry/Apollo-11,https://github.com/chrislgarry/Apollo-11,Assembly,6769,52531,2942,52531,"['agc', 'apollo', 'hacktoberfest', 'nasa']",169
+gatsbyjs/gatsby,https://github.com/gatsbyjs/gatsby,JavaScript,10141,52416,963060,52416,"['blog', 'compiler', 'documentation-tool', 'gatsby', 'graphql', 'react', 'static-site-generator', 'web-app']",4175
+h5bp/html5-boilerplate,https://github.com/h5bp/html5-boilerplate,JavaScript,11961,52400,22118,52400,"['best-practices', 'css', 'html', 'html5', 'html5-boilerplate', 'javascript', 'robust']",296
+h5bp/Front-end-Developer-Interview-Questions,https://github.com/h5bp/Front-end-Developer-Interview-Questions,Nunjucks,10243,52351,3374,52351,"['css-questions', 'front-end', 'html-questions', 'interview-questions', 'interview-test', 'js-questions']",258
+lodash/lodash,https://github.com/lodash/lodash,JavaScript,6321,52331,47581,52331,"['javascript', 'lodash', 'modules', 'utilities']",327
+ansible/ansible,https://github.com/ansible/ansible,Python,21605,52258,212535,52258,"['ansible', 'hacktoberfest', 'python']",6524
+coder/code-server,https://github.com/coder/code-server,TypeScript,4306,51841,50049,51841,"['browser-ide', 'dev-tools', 'development-environment', 'ide', 'remote-work', 'vscode', 'vscode-remote']",167
+ElemeFE/element,https://github.com/ElemeFE/element,Vue,13699,51719,82513,51719,"['components', 'element-ui', 'javascript', 'ui-kit', 'vue', 'vue-components', 'vuejs']",605
