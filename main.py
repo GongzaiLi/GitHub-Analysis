@@ -6,7 +6,7 @@ import csv
 import datetime
 import time
 
-STARTS_NUMBER = 40000
+STARTS_NUMBER = 10000
 HEADER = ['Project Name', 'URL', 'Language', 'Forks', 'Watchers', 'Size Byte', 'Stars', 'Topics',
           'Contributors']  # , 'Contributors'
 
