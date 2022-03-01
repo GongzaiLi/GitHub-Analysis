@@ -3,38 +3,55 @@
 
 import requests
 import csv
-import datetime
 import time
 
 STARTS_NUMBER = 10000
+
+PER_PAGE = 1
+PAGE = 1001
+
 HEADER = ['Project Name', 'URL', 'Language', 'Forks', 'Watchers', 'Size Byte', 'Stars', 'Topics',
-          'Contributors']  # , 'Contributors'
+          'Contributors', 'Type']  # , 'Contributors'
+
+NOT_PROGRAMMING_LANGUAGE = ["Markdown", None]
+
+WEB_APPLICATION_CHARACTERISTIC = ["frontend", "react", "framework", "backend", "api", "web", "apis", "webapp",
+                                  "web-application", "html", "css", "http-client", "browser", "angular", "html5", "vue",
+                                  "webfont"]
+
+FRAMEWORK_CHARACTERISTIC = ["framework", "plugin-framework", "python-framework"]
+
+AI_CHARACTERISTIC = ["deep-learning", "machine-learning", "neural-network"]
+
+MOBILE_APPLICATION_CHARACTERISTIC = ["android", "ios"]
+
+CHARACTERISTICS = [WEB_APPLICATION_CHARACTERISTIC, FRAMEWORK_CHARACTERISTIC, AI_CHARACTERISTIC,
+                   MOBILE_APPLICATION_CHARACTERISTIC]
+
+PROJECT_CATEGORIES = {-1: "Other", 0: "Web Application", 1: "Framework", 2: "AI", 3: "Mobile App"}
 
 
-# contributors_url
-class GetGitHub:
-    def __init__(self, url, http_headers):
-        self.url = url
-        self.response_items = []
-        self.http_headers = http_headers
-        self.getResponse()
+# STATIC_LANGUAGE = ["C++"]
+# DYNAMIC_LANGUAGE = ["JavaScript", "TypeScript", "Python"]
 
-    def getResponse(self):
-        try:
-            res = requests.get(self.url, headers=self.http_headers)
-            print(f"Status Code {res.status_code}")
-            # curl -H "Authorization: token OAUTH-TOKEN" https://api.github.com
-            print(res.headers)
-            if res.status_code != 200:  # curl -u "username" https://api.github.com
-                exit(1)
-            response_dic = res.json()
-            print(f"Total Count: {response_dic['total_count']}")
 
-            self.response_items = response_dic['items']
-            print(f"Total Items: {len(self.response_items)}")
-        except Exception as e:
-            print(f"Error Message {e}")
-            exit(1)
+def get_github_response(url, http_header):
+    try:
+        res = requests.get(url, headers=http_header)
+        print(f"Status Code {res.status_code}")
+        # curl -H "Authorization: token OAUTH-TOKEN" https://api.github.com
+        # print(res.headers)
+        if res.status_code != 200:  # curl -u "username" https://api.github.com
+            return None
+        response_dic = res.json()
+        print(f"Total Count: {response_dic['total_count']}")
+
+        response_items = response_dic['items']
+        print(f"Total Items: {len(response_items)}")
+        return response_items
+    except Exception as e:
+        print(f"get_github_response Error Message {e}")
+        exit(1)
 
 
 def procces_item(items, http_headers):
@@ -44,36 +61,38 @@ def procces_item(items, http_headers):
         url = item['html_url']
         # "languages_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/languages",
         language = item['language']
-        if language is None:
+        if language in NOT_PROGRAMMING_LANGUAGE:
             continue
         forks = item['forks']
         watchers = item['watchers']
         size = item['size']
-        contributors = count_contributors(item['contributors_url'], http_headers)
+        contributors = count_contributors_response(item['contributors_url'], http_headers)
         stars = item['stargazers_count']
         topic = f"{item['topics']}"
-        data.append([project_name, url, language, forks, watchers, size, stars, topic, contributors])
+        project_category = f"{project_category_check(item['topics'])}"
+        data.append([project_name, url, language, forks, watchers, size, stars, topic, contributors, project_category])
 
     return data
 
 
-def count_contributors(contributor_url, http_headers):
+def count_contributors_response(contributor_url, http_headers):
     try:
         # {contributor_url}?per_page=100&page={page}
         res = requests.get(f"{contributor_url}?per_page=1&anon=true", headers=http_headers)
 
         if res.status_code != 200:  # curl -u "username" https://api.github.com
             print(F"Contributor Status Code {res.status_code}")
-            exit(1)
+            return None  # The history or contributor list is too large to list contributors for this repository via the API.
 
+        print(res.headers)
         link = res.headers['link']
         count = int(link.split("page=")[-1].split(">")[0])
         print(count)
         # print(res.headers)
         return count
     except Exception as e:
-        print(f"Error Message {e}")
-        exit(1)
+        print(f"count_contributors_response Error Message {e}")
+        return None
 
 
 def write_in_csv(data, page, filename):
@@ -85,31 +104,46 @@ def write_in_csv(data, page, filename):
         writer.writerows(data)
         print(data)
         print(f"================= write done in {page} ==========================")
-        time.sleep(5)
+        # time.sleep(5)
+
+
+def project_category_check(item_topics):
+    project_category = set()
+    for topic in item_topics:
+        for index, character in enumerate(CHARACTERISTICS):
+            if any(topic.lower() == character for character in character):
+                project_category.add(PROJECT_CATEGORIES[index])
+
+    if len(project_category) == 0:
+        project_category.add(PROJECT_CATEGORIES[-1])  # Other
+    return list(project_category)
 
 
 if __name__ == '__main__':
     # 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
-    http_headers = {"Authorization": "token " + "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"}
-    date = datetime.datetime.now()
-    # f"{date.month}-{date.day}-{date.year}_{date.strftime('%X')}.csv"
-    filename = "item_data.csv"
-    per_page = 1
-    page = 23  # page 22 has problem
+    http_headers = {"Authorization": "token " + "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", 'Accept': 'application/vnd.github.v3+json'}
+
+    filename = F"github_info_stars_over_{STARTS_NUMBER}.csv"
+
+    # page = 1  #when page 22 has problem
 
     while True:
-        print(f"Start Page {page}")
-        url = f"https://api.github.com/search/repositories?per_page={per_page}&page={page}&q=stars%3A>{STARTS_NUMBER}"
-        res = GetGitHub(url, http_headers)
+        print(f"Start Page {PAGE}")
+        url = f"https://api.github.com/search/repositories?per_page={PER_PAGE}&page={PAGE}&q=stars%3A>{STARTS_NUMBER}"
+        response_items = get_github_response(url, http_headers)
+        if response_items is None:
+            print(f"---------------------------Re fetch it {PAGE}----------------------------")
+            time.sleep(5)
+            continue
 
-        if len(res.response_items) == 0:
-            print("end")
+        if len(response_items) == 0:
+            print("=====================================end=================================")
             exit(1)
 
-        data = procces_item(res.response_items, http_headers)
-        write_in_csv(data, page, filename)
+        data = procces_item(response_items, http_headers)
+        write_in_csv(data, PAGE, filename)
 
-        if page % 21 == 0:
-            time.sleep(60)
+        # if page % 21 == 0:
+        #     time.sleep(60)
 
-        page += 1
+        PAGE += 1
