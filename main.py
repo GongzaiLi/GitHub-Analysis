@@ -8,7 +8,7 @@ import time
 STARTS_NUMBER = 10000
 
 PER_PAGE = 1
-PAGE = 1001
+PAGE = 1
 
 HEADER = ['Project Name', 'URL', 'Language', 'Forks', 'Watchers', 'Size Byte', 'Stars', 'Topics',
           'Contributors', 'Type']  # , 'Contributors'
@@ -71,7 +71,6 @@ def procces_item(items, http_headers):
         topic = f"{item['topics']}"
         project_category = f"{project_category_check(item['topics'])}"
         data.append([project_name, url, language, forks, watchers, size, stars, topic, contributors, project_category])
-
     return data
 
 
@@ -111,7 +110,7 @@ def project_category_check(item_topics):
     project_category = set()
     for topic in item_topics:
         for index, character in enumerate(CHARACTERISTICS):
-            if any(topic.lower() == character or character in topic.lower for character in character):
+            if any(topic.lower() == character or character in topic.lower() for character in character):
                 project_category.add(PROJECT_CATEGORIES[index])
 
     if len(project_category) == 0:
@@ -126,9 +125,13 @@ if __name__ == '__main__':
 
     filename = F"github_info_stars_over_{STARTS_NUMBER}.csv"
 
-    # page = 1  #when page 22 has problem
 
     while True:
+
+        if PAGE == 1001:
+            print("=====================================end=================================")
+            exit(1)
+
         print(f"Start Page {PAGE}")
         url = f"https://api.github.com/search/repositories?per_page={PER_PAGE}&page={PAGE}&q=stars%3A>{STARTS_NUMBER}"
         response_items = get_github_response(url, http_headers)
@@ -141,10 +144,10 @@ if __name__ == '__main__':
             print("=====================================end=================================")
             exit(1)
 
+
+
         data = procces_item(response_items, http_headers)
         write_in_csv(data, PAGE, filename)
-
-        # if page % 21 == 0:
-        #     time.sleep(60)
-
         PAGE += 1
+
+
