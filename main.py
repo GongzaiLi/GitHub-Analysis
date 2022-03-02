@@ -14,9 +14,9 @@ HEADER = ['Project Name', 'URL', 'Language', 'Forks', 'Watchers', 'Size Byte', '
           'Contributors', 'Type']  # , 'Contributors'
 
 NOT_PROGRAMMING_LANGUAGE = ["Markdown", None]
-
+# todo add the 加一些多的内容和 对应的 characteristic 
 WEB_APPLICATION_CHARACTERISTIC = ["frontend", "react", "framework", "backend", "api", "web", "apis", "webapp",
-                                  "web-application", "html", "css", "http-client", "browser", "angular", "html5", "vue",
+                                  "web", "html", "css", "http-client", "browser", "angular", "html5", "vue",
                                   "webfont"]
 
 FRAMEWORK_CHARACTERISTIC = ["framework", "plugin-framework", "python-framework"]
@@ -111,7 +111,7 @@ def project_category_check(item_topics):
     project_category = set()
     for topic in item_topics:
         for index, character in enumerate(CHARACTERISTICS):
-            if any(topic.lower() == character for character in character):
+            if any(topic.lower() == character or character in topic.lower for character in character):
                 project_category.add(PROJECT_CATEGORIES[index])
 
     if len(project_category) == 0:
@@ -121,7 +121,8 @@ def project_category_check(item_topics):
 
 if __name__ == '__main__':
     # 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
-    http_headers = {"Authorization": "token " + "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", 'Accept': 'application/vnd.github.v3+json'}
+    http_headers = {"Authorization": "token " + "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",
+                    'Accept': 'application/vnd.github.v3+json'}
 
     filename = F"github_info_stars_over_{STARTS_NUMBER}.csv"
 
