@@ -1,0 +1,433 @@
+Project Name,URL,Language,Forks,Watchers,Size Byte,Stars,Topics,Contributors,Type
+freeCodeCamp/freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,JavaScript,28103,341529,299950,341529,"careers, certification, community, curriculum, d3, education, freecodecamp, hacktoberfest, javascript, learn-to-code, math, nodejs, nonprofits, programming, react, teachers",4825,Web Application
+vuejs/vue,https://github.com/vuejs/vue,JavaScript,31570,193561,27822,193561,"framework, frontend, javascript, vue",337,"Web Application, Framework"
+kamranahmedse/developer-roadmap,https://github.com/kamranahmedse/developer-roadmap,TypeScript,27050,187840,109182,187840,"angular-roadmap, backend-roadmap, computer-science, dba-roadmap, developer-roadmap, devops-roadmap, engineering, frontend-roadmap, go-roadmap, java-roadmap, python-roadmap, react-roadmap, roadmap, study-plan",100,Web Application
+facebook/react,https://github.com/facebook/react,JavaScript,37523,183371,176270,183371,"declarative, frontend, javascript, library, react, ui",1705,Web Application
+public-apis/public-apis,https://github.com/public-apis/public-apis,Python,21116,182653,5245,182653,"api, apis, dataset, development, free, list, lists, open-source, public, public-api, public-apis, resources, software",1365,Web Application
+donnemartin/system-design-primer,https://github.com/donnemartin/system-design-primer,Python,30554,165029,11154,165029,"design, design-patterns, design-system, development, interview, interview-practice, interview-questions, programming, python, system, web, web-application, webapp",113,Web Application
+tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,C++,86443,163293,864061,163293,"deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow",3929,AI
+twbs/bootstrap,https://github.com/twbs/bootstrap,JavaScript,76249,155702,196943,155702,"bootstrap, css, css-framework, html, javascript, sass, scss",1508,"Web Application, Framework"
+ohmyzsh/ohmyzsh,https://github.com/ohmyzsh/ohmyzsh,Shell,23724,141525,9384,141525,"cli, cli-app, hacktoberfest, plugin-framework, plugins, productivity, shell, terminal, theme, themes, zsh, zsh-configuration",2244,"Web Application, Framework"
+flutter/flutter,https://github.com/flutter/flutter,Dart,20930,137048,186161,137048,"android, app-framework, dart, dart-platform, desktop, fuchsia, ios, linux-desktop, macos, material-design, mobile, skia, web, web-framework, windows",1062,"Web Application, Mobile App, Framework"
+trekhleb/javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,JavaScript,22527,136334,4397,136334,"algorithm, algorithms, computer-science, data-structures, interview, interview-preparation, javascript, javascript-algorithms",196,Other
+TheAlgorithms/Python,https://github.com/TheAlgorithms/Python,Python,34479,130406,12571,130406,"algorithm, algorithm-competitions, algorithms-implemented, algos, community-driven, education, hacktoberfest, interview, learn, practice, python, searches, sorting-algorithms, sorts",829,Other
+microsoft/vscode,https://github.com/microsoft/vscode,TypeScript,21734,128404,464743,128404,"editor, electron, microsoft, typescript, visual-studio-code",1971,Other
+torvalds/linux,https://github.com/torvalds/linux,C,41744,127882,3672276,127882,,,Other
+airbnb/javascript,https://github.com/airbnb/javascript,JavaScript,22960,120237,3465,120237,"arrow-functions, es2015, es2016, es2017, es2018, es6, eslint, javascript, linting, naming-conventions, style-guide, style-linter, styleguide, tc39",528,Other
+vinta/awesome-python,https://github.com/vinta/awesome-python,Python,20787,118486,6616,118486,"awesome, collections, python, python-framework, python-library, python-resources",416,"Web Application, Framework"
+Snailclimb/JavaGuide,https://github.com/Snailclimb/JavaGuide,Java,40153,117967,146546,117967,"algorithms, interview, java, jvm, mysql, redis, spring, system, system-design, zookeeper",343,Other
+jackfrued/Python-100-Days,https://github.com/jackfrued/Python-100-Days,Python,44740,115430,308945,115430,,14,Other
+ytdl-org/youtube-dl,https://github.com/ytdl-org/youtube-dl,Python,7237,107013,64016,107013,,969,Other
+facebook/react-native,https://github.com/facebook/react-native,JavaScript,21826,101440,846369,101440,,3109,Other
+electron/electron,https://github.com/electron/electron,C++,13248,100568,112480,100568,"c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces",1277,Web Application
+d3/d3,https://github.com/d3/d3,JavaScript,22985,100489,42260,100489,"chart, charts, data-visualization, svg, visualization",136,Other
+golang/go,https://github.com/golang/go,Go,14365,96047,291090,96047,"go, golang, language, programming-language",2145,Other
+facebook/create-react-app,https://github.com/facebook/create-react-app,JavaScript,24022,93716,22234,93716,"build-tools, react, zero-configuration",918,Web Application
+30-seconds/30-seconds-of-code,https://github.com/30-seconds/30-seconds-of-code,JavaScript,9856,92686,28721,92686,"awesome-list, education, es6-javascript, javascript, learn-to-code, learning-resources, nodejs, programming, snippets, snippets-collection",288,Other
+axios/axios,https://github.com/axios/axios,JavaScript,9262,91459,5237,91459,"hacktoberfest, http-client, javascript, nodejs, promise",323,Web Application
+kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,Go,31573,86027,1059443,86027,"cncf, containers, go, kubernetes",4264,Other
+nodejs/node,https://github.com/nodejs/node,JavaScript,22921,85949,794710,85949,"javascript, js, linux, macos, mit, node, nodejs, runtime, windows",3437,Other
+vercel/next.js,https://github.com/vercel/next.js,JavaScript,17108,82511,1741935,82511,"blog, browser, compiler, components, hybrid, nextjs, node, react, server-rendering, ssg, static, static-site-generator, universal, vercel",2130,Web Application
+microsoft/terminal,https://github.com/microsoft/terminal,C++,7228,81433,106158,81433,"cmd, command-line, console, terminal, windows-console, windows-terminal, wsl",324,Other
+denoland/deno,https://github.com/denoland/deno,Rust,4304,80619,54245,80619,"deno, javascript, rust, typescript",684,Other
+angular/angular,https://github.com/angular/angular,TypeScript,21014,79920,374095,79920,"angular, javascript, pwa, typescript, web, web-framework, web-performance",1732,"Web Application, Framework"
+mrdoob/three.js,https://github.com/mrdoob/three.js,JavaScript,30842,79643,1143561,79643,"3d, augmented-reality, canvas, html5, javascript, svg, virtual-reality, webaudio, webgl, webgl2, webgpu, webxr",1950,Web Application
+awesome-selfhosted/awesome-selfhosted,https://github.com/awesome-selfhosted/awesome-selfhosted,JavaScript,5453,78896,14367,78896,"awesome, awesome-list, cloud, hosting, privacy, self-hosted, selfhosted",1081,Other
+microsoft/TypeScript,https://github.com/microsoft/TypeScript,TypeScript,10287,78502,1684594,78502,"javascript, language, typechecker, typescript",702,Other
+ant-design/ant-design,https://github.com/ant-design/ant-design,TypeScript,32791,78475,801493,78475,"ant-design, antd, design-systems, react, typescript, ui-kit, ui-library",1789,Web Application
+puppeteer/puppeteer,https://github.com/puppeteer/puppeteer,TypeScript,8156,76572,32477,76572,"automation, developer-tools, headless-chrome, node-module, testing, web",410,Web Application
+avelino/awesome-go,https://github.com/avelino/awesome-go,Go,9557,76219,10130,76219,"awesome, awesome-list, go, golang, golang-library, hacktoberfest",1783,Other
+mui/material-ui,https://github.com/mui/material-ui,JavaScript,26288,76093,278224,76093,"design-systems, hacktoberfest, javascript, material-design, react, react-components, typescript",2699,Web Application
+goldbergyoni/nodebestpractices,https://github.com/goldbergyoni/nodebestpractices,JavaScript,7741,75537,61837,75537,"best-practices, es6, eslint, express, expressjs, javascript, jest, microservices, mocha, node-js, nodejs, nodejs-development, npm, rest, style-guide, styleguide, testing, types",230,Other
+PanJiaChen/vue-element-admin,https://github.com/PanJiaChen/vue-element-admin,Vue,27043,74416,15437,74416,"admin, admin-dashboard, admin-template, axios, dashboard, desktop, element, element-ui, i18n, management-system, mock, tinymce, vue, vue-admin, vue-cli, vuex, webpack, webpack4, xlsx",124,"Web Application, Mobile App"
+animate-css/animate.css,https://github.com/animate-css/animate.css,CSS,16074,73811,1922,73811,"animation, css, css-animations, stylesheets",129,Web Application
+iluwatar/java-design-patterns,https://github.com/iluwatar/java-design-patterns,Java,22869,73493,28238,73493,"awesome-list, design-patterns, hacktoberfest, java, principles, snippets, snippets-collection, snippets-library",310,Other
+tensorflow/models,https://github.com/tensorflow/models,Python,45545,72928,591371,72928,,851,Other
+microsoft/PowerToys,https://github.com/microsoft/PowerToys,C#,3939,69599,286432,69599,"color-picker, desktop, fancyzones, keyboard-manager, microsoft-powertoys, powerrename, powertoys, windows",293,Other
+MisterBooo/LeetCodeAnimation,https://github.com/MisterBooo/LeetCodeAnimation,Java,13330,69166,509807,69166,"animation, leetcode, leetcode-c, leetcode-java, leetcode-solutions",20,Other
+storybookjs/storybook,https://github.com/storybookjs/storybook,TypeScript,7158,69134,474891,69134,"angular, components, design-systems, documentation, ember, html, javascript, polymer, react, react-native, storybook, styleguide, svelte, testing, typescript, ui, ui-components, vue, web-components, webpack",1692,Web Application
+laravel/laravel,https://github.com/laravel/laravel,PHP,22282,68893,10380,68893,"framework, laravel, php",735,"Web Application, Framework"
+FortAwesome/Font-Awesome,https://github.com/FortAwesome/Font-Awesome,JavaScript,11964,68850,86963,68850,"css, font, fontawesome, icons, svg-icons, svg-sprites, webfont",2,Web Application
+nvbn/thefuck,https://github.com/nvbn/thefuck,Python,3086,67042,4087,67042,"python, shell",185,Other
+yangshun/tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,JavaScript,9264,66819,6833,66819,"algorithm, algorithm-interview, algorithm-interview-questions, algorithms, behavioral-interviews, coding-interviews, interview-practice, interview-preparation, interview-questions, system-design",109,Other
+ryanmcdermott/clean-code-javascript,https://github.com/ryanmcdermott/clean-code-javascript,JavaScript,8581,64710,574,64710,"best-practices, clean-architecture, clean-code, composition, inheritance, javascript, principles",117,Other
+gothinkster/realworld,https://github.com/gothinkster/realworld,Shell,5907,64202,4559,64202,,78,Other
+rust-lang/rust,https://github.com/rust-lang/rust,Rust,8903,64031,783876,64031,"compiler, language, rust",4823,Other
+django/django,https://github.com/django/django,Python,26681,62693,221328,62693,"apps, django, framework, models, orm, python, templates, views, web",2677,"Web Application, Framework"
+moby/moby,https://github.com/moby/moby,Go,17989,62322,178422,62322,"containers, docker, go",2348,Other
+tonsky/FiraCode,https://github.com/tonsky/FiraCode,Clojure,2770,62321,91168,62321,"font, ligatures, programming-ligatures",106,Other
+bitcoin/bitcoin,https://github.com/bitcoin/bitcoin,C++,31721,62249,198121,62249,"bitcoin, c-plus-plus, cryptocurrency, cryptography, p2p",1046,Other
+Genymobile/scrcpy,https://github.com/Genymobile/scrcpy,C,6618,62043,4036,62043,"android, c, ffmpeg, libav, mirroring, recording, screen, sdl2",103,Mobile App
+doocs/advanced-java,https://github.com/doocs/advanced-java,Java,16702,61311,28707,61311,"advanced-java, distributed-search-engine, distributed-systems, doocs, dubbo, elasticsearch, eureka, feign, high-availability, high-concurrency, hystrix, java, message-queue, microservices-architecture, redis, ribbon, rpc, spring-cloud, springcloud-config, zookeeper",35,Other
+webpack/webpack,https://github.com/webpack/webpack,JavaScript,8245,60579,57237,60579,"amd, build-tool, commonjs, compiler, es2015, es6, esm, javascript, javascript-compiler, javascript-modules, loaders, module-bundler, plugins, web, web-performance, webpack",805,Web Application
+opencv/opencv,https://github.com/opencv/opencv,C++,50421,60026,504583,60026,"c-plus-plus, computer-vision, deep-learning, image-processing, opencv",1872,AI
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot,Java,35791,59869,147212,59869,"framework, java, spring, spring-boot",1081,"Web Application, Framework"
+typicode/json-server,https://github.com/typicode/json-server,JavaScript,5831,59864,2721,59864,,76,Other
+angular/angular.js,https://github.com/angular/angular.js,JavaScript,28390,59518,101603,59518,,1849,Other
+huggingface/transformers,https://github.com/huggingface/transformers,Python,13912,58848,90202,58848,"bert, deep-learning, flax, hacktoberfest, jax, language-model, language-models, machine-learning, model-hub, natural-language-processing, nlp, nlp-library, pretrained-models, python, pytorch, pytorch-transformers, seq2seq, speech-recognition, tensorflow, transformer",1165,AI
+apple/swift,https://github.com/apple/swift,C++,9445,58837,779768,58837,,1133,Other
+elastic/elasticsearch,https://github.com/elastic/elasticsearch,Java,21349,58716,964420,58716,"elasticsearch, java, search-engine",1854,Other
+hakimel/reveal.js,https://github.com/hakimel/reveal.js,JavaScript,16038,58622,18450,58622,"presentations, slides, slideshow",324,Other
+netdata/netdata,https://github.com/netdata/netdata,C,5208,58309,85073,58309,"alerting, analytics, cncf, containers, dashboard, devops, docker, grafana, graphing, graphite, influxdb, iot, kubernetes, monitoring, netdata, notifications, observability, prometheus, statsd, time-series",537,Other
+pallets/flask,https://github.com/pallets/flask,Python,14902,58169,8994,58169,"flask, jinja, pallets, python, web-framework, werkzeug, wsgi",757,"Web Application, Framework"
+reduxjs/redux,https://github.com/reduxjs/redux,TypeScript,15126,57587,25376,57587,redux,922,Other
+gohugoio/hugo,https://github.com/gohugoio/hugo,Go,6489,57415,108250,57415,"blog-engine, cms, content-management-system, documentation-tool, go, hacktoberfest, hugo, static-site-generator",778,Other
+atom/atom,https://github.com/atom/atom,JavaScript,16913,56914,329179,56914,"atom, editor, electron, javascript, linux, macos, windows",626,Other
+sveltejs/svelte,https://github.com/sveltejs/svelte,TypeScript,2768,56402,68381,56402,"compiler, template, ui",515,Other
+kdn251/interviews,https://github.com/kdn251/interviews,Java,11946,56396,24091,56396,"algorithm, algorithm-challenges, algorithm-competitions, algorithms, coding-challenge, coding-challenges, coding-interview, coding-interviews, interview, interview-practice, interview-prep, interview-preparation, interview-questions, interviews, java, leetcode, leetcode-java, leetcode-questions, leetcode-solutions, technical-coding-interview",42,Other
+macrozheng/mall,https://github.com/macrozheng/mall,Java,24007,56355,57611,56355,"docker, elasticsearch, elk, java, mongodb, mybatis, mysql, rabbitmq, redis, spring, spring-boot, spring-cloud, spring-security, springboot, springcloud, swagger-ui",2,Other
+chartjs/Chart.js,https://github.com/chartjs/Chart.js,JavaScript,11381,56322,36300,56322,"canvas, chart, graph, hacktoberfest, html5, html5-charts, javascript",427,Web Application
+expressjs/express,https://github.com/expressjs/express,JavaScript,9515,56144,9388,56144,"express, javascript, nodejs, server",303,Other
+gin-gonic/gin,https://github.com/gin-gonic/gin,Go,6346,56068,2738,56068,"framework, gin, go, middleware, performance, router, server",361,"Web Application, Framework"
+jquery/jquery,https://github.com/jquery/jquery,JavaScript,20282,55903,31130,55903,jquery,331,Other
+nvm-sh/nvm,https://github.com/nvm-sh/nvm,Shell,5859,55815,3355,55815,"bash, install, lts, node, node-js, nodejs, nvm, nvmrc, posix, posix-compliant, shell, version-manager, zsh",346,Other
+socketio/socket.io,https://github.com/socketio/socket.io,TypeScript,9984,55331,15186,55331,,203,Other
+adam-p/markdown-here,https://github.com/adam-p/markdown-here,JavaScript,10556,54539,16032,54539,,12,Other
+keras-team/keras,https://github.com/keras-team/keras,Python,19009,54469,22523,54469,"data-science, deep-learning, machine-learning, neural-networks, python, tensorflow",1034,AI
+pytorch/pytorch,https://github.com/pytorch/pytorch,C++,15039,54331,763231,54331,"autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor",3128,AI
+tailwindlabs/tailwindcss,https://github.com/tailwindlabs/tailwindcss,JavaScript,2646,54157,62065,54157,"css, css-framework, functional-css, postcss, responsive, tailwindcss, utility-classes",218,"Web Application, Framework"
+shadowsocks/shadowsocks-windows,https://github.com/shadowsocks/shadowsocks-windows,C#,16282,53952,13485,53952,"c-sharp, proxy, shadowsocks",87,Other
+fatedier/frp,https://github.com/fatedier/frp,Go,9795,53816,25044,53816,"expose, firewall, frp, go, http-proxy, nat, proxy, reverse-proxy, tunnel",82,Other
+redis/redis,https://github.com/redis/redis,C,20830,53756,112326,53756,,654,Other
+ripienaar/free-for-dev,https://github.com/ripienaar/free-for-dev,HTML,5860,53613,4609,53613,,1254,Other
+josephmisiti/awesome-machine-learning,https://github.com/josephmisiti/awesome-machine-learning,Python,13134,53390,5019,53390,,554,Other
+papers-we-love/papers-we-love,https://github.com/papers-we-love/papers-we-love,Shell,4441,53327,229161,53327,"awesome, computer-science, meetup, papers, programming, read-papers, theory",270,Other
+protocolbuffers/protobuf,https://github.com/protocolbuffers/protobuf,C++,13776,53270,90966,53270,"marshalling, protobuf, protobuf-runtime, protoc, protocol-buffers, protocol-compiler, rpc, serialization",929,Other
+521xueweihan/HelloGitHub,https://github.com/521xueweihan/HelloGitHub,Python,7575,52823,3854,52823,"awesome, github, hellogithub, python",8,Other
+chrislgarry/Apollo-11,https://github.com/chrislgarry/Apollo-11,Assembly,6770,52563,2942,52563,"agc, apollo, hacktoberfest, nasa",169,Other
+gatsbyjs/gatsby,https://github.com/gatsbyjs/gatsby,JavaScript,10157,52459,967171,52459,"blog, compiler, documentation-tool, gatsby, graphql, react, static-site-generator, web-app",4178,Web Application
+h5bp/html5-boilerplate,https://github.com/h5bp/html5-boilerplate,JavaScript,11968,52427,20071,52427,"best-practices, css, html, html5, html5-boilerplate, javascript, robust",296,Web Application
+h5bp/Front-end-Developer-Interview-Questions,https://github.com/h5bp/Front-end-Developer-Interview-Questions,Nunjucks,10246,52407,3462,52407,"css-questions, front-end, html-questions, interview-questions, interview-test, js-questions",258,Web Application
+lodash/lodash,https://github.com/lodash/lodash,JavaScript,6328,52392,47581,52392,"javascript, lodash, modules, utilities",327,Other
+ansible/ansible,https://github.com/ansible/ansible,Python,21630,52314,212822,52314,"ansible, hacktoberfest, python",6527,Other
+coder/code-server,https://github.com/coder/code-server,TypeScript,4313,51954,50205,51954,"browser-ide, dev-tools, development-environment, ide, remote-work, vscode, vscode-remote",169,Web Application
+kelseyhightower/nocode,https://github.com/kelseyhightower/nocode,Dockerfile,4505,51770,5,51770,,,Other
+ElemeFE/element,https://github.com/ElemeFE/element,Vue,13709,51727,82513,51727,"components, element-ui, javascript, ui-kit, vue, vue-components, vuejs",605,Web Application
+neovim/neovim,https://github.com/neovim/neovim,Vim script,3690,51278,148569,51278,"api, c, lua, neovim, nvim, text-editor, vim",843,Web Application
+resume/resume.github.com,https://github.com/resume/resume.github.com,JavaScript,1291,50861,411,50861,,55,Other
+rails/rails,https://github.com/rails/rails,Ruby,20179,50258,242644,50258,"activejob, activerecord, framework, html, mvc, rails, ruby",5845,"Web Application, Framework"
+home-assistant/core,https://github.com/home-assistant/core,Python,17346,50212,324670,50212,"asyncio, home-automation, internet-of-things, iot, mqtt, python, raspberry-pi",3144,Other
+apache/echarts,https://github.com/apache/echarts,TypeScript,18681,50091,215465,50091,"apache, canvas, charting-library, charts, data-visualization, data-viz, echarts, svg, visualization",193,Other
+Semantic-Org/Semantic-UI,https://github.com/Semantic-Org/Semantic-UI,JavaScript,5141,49888,112276,49888,"button, css-framework, dropdown, flexbox, popup, semantic, sidebar, tooltip, ui, ui-components",225,"Web Application, Framework"
+scikit-learn/scikit-learn,https://github.com/scikit-learn/scikit-learn,Python,22705,49193,137071,49193,"data-analysis, data-science, machine-learning, python, statistics",2508,AI
+jaywcjlove/awesome-mac,https://github.com/jaywcjlove/awesome-mac,JavaScript,5235,47970,7288,47970,"apple, awesome, awesome-list, awesome-lists, list, mac, mac-osx, macos, macosx, software",410,Other
+leonardomso/33-js-concepts,https://github.com/leonardomso/33-js-concepts,JavaScript,6372,47415,1711,47415,"angular, concepts, es6, es6-javascript, hacktoberfest, javascript, javascript-closures, javascript-engines, javascript-programming, nodejs, primitive-types, programming, react",103,Web Application
+grafana/grafana,https://github.com/grafana/grafana,TypeScript,9352,47263,534054,47263,"alerting, analytics, business-intelligence, dashboard, data-visualization, elasticsearch, go, grafana, hacktoberfest, influxdb, metrics, monitoring, mysql, postgres, prometheus",1873,Other
+scutan90/DeepLearning-500-questions,https://github.com/scutan90/DeepLearning-500-questions,JavaScript,14785,47209,207074,47209,,117,Other
+iptv-org/iptv,https://github.com/iptv-org/iptv,JavaScript,8350,47151,393575,47151,"iptv, m3u, playlist, streams, tv",162,Other
+psf/requests,https://github.com/psf/requests,Python,8653,47005,12819,47005,"client, cookies, forhumans, http, humans, python, python-requests, requests",710,Other
+necolas/normalize.css,https://github.com/necolas/normalize.css,CSS,10570,46825,379,46825,"css, css-reset, normalize-css",42,Web Application
+azl397985856/leetcode,https://github.com/azl397985856/leetcode,JavaScript,8797,46784,133353,46784,"algo, algorithm, algorithms, algorithms-datastructures, computer-science, cpp, data-structures, interview, java, javascript, leetcode, leetcode-solutions, python, tree",75,Other
+godotengine/godot,https://github.com/godotengine/godot,C++,8432,46724,854050,46724,"game-development, game-engine, gamedev, godot, godotengine, multi-platform, open-source",1837,Other
+ionic-team/ionic-framework,https://github.com/ionic-team/ionic-framework,TypeScript,13594,46466,136067,46466,"angular, capacitor, framework, frontend, ionic, ios, javascript, material-design, mobile, pwa, react, stencil, stenciljs, typescript, vue, web, webcomponents",463,"Web Application, Mobile App, Framework"
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework,Java,32808,46377,172675,46377,"framework, spring, spring-framework",734,"Web Application, Framework"
+moment/moment,https://github.com/moment/moment,JavaScript,7032,46310,19995,46310,,670,Other
+remix-run/react-router,https://github.com/remix-run/react-router,TypeScript,9015,46217,16165,46217,,749,Other
+ReactiveX/RxJava,https://github.com/ReactiveX/RxJava,Java,7570,45807,132782,45807,"flow, java, reactive-streams, rxjava",318,Web Application
+jgthms/bulma,https://github.com/jgthms/bulma,CSS,3861,45176,98455,45176,"css, css-framework, design, flexbox, html",383,"Web Application, Framework"
+nestjs/nest,https://github.com/nestjs/nest,TypeScript,4950,45031,245330,45031,"framework, javascript, javascript-framework, microservices, nest, nestjs, node, nodejs, nodejs-framework, typescript, typescript-framework, websockets",337,"Web Application, Framework"
+GrowingGit/GitHub-Chinese-Top-Charts,https://github.com/GrowingGit/GitHub-Chinese-Top-Charts,Java,6461,44833,32166,44833,,4,Other
+apache/superset,https://github.com/apache/superset,TypeScript,8678,44792,358202,44792,"analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset",768,Web Application
+mermaid-js/mermaid,https://github.com/mermaid-js/mermaid,JavaScript,3226,44668,153867,44668,,326,Other
+TheAlgorithms/Java,https://github.com/TheAlgorithms/Java,Java,14632,44646,2614,44646,"algorithm, algorithm-challenges, algorithms, algorithms-datastructures, data-structures, hacktoberfest, java, search, sort, sorting-algorithms",372,Other
+jekyll/jekyll,https://github.com/jekyll/jekyll,Ruby,9721,44196,43852,44196,"blog-engine, jekyll, liquid, markdown, ruby, static-site-generator",1166,Other
+tesseract-ocr/tesseract,https://github.com/tesseract-ocr/tesseract,C++,7842,44193,52089,44193,"hacktoberfest, lstm, machine-learning, ocr, ocr-engine, tesseract, tesseract-ocr",190,AI
+google/guava,https://github.com/google/guava,Java,9761,43782,372192,43782,"guava, java",421,Other
+NARKOZ/hacker-scripts,https://github.com/NARKOZ/hacker-scripts,JavaScript,6601,43515,102,43515,,56,Other
+strapi/strapi,https://github.com/strapi/strapi,JavaScript,5294,43491,341075,43491,"api, cms, cms-framework, content-management, content-management-system, customizable, dashboard, graphql, hacktoberfest, headless-cms, jamstack, javascript, koa, koa2, mysql, nodejs, rest, strapi",831,"Web Application, Framework"
+ageitgey/face_recognition,https://github.com/ageitgey/face_recognition,Python,12035,43315,103937,43315,"face-detection, face-recognition, machine-learning, python",47,AI
+syncthing/syncthing,https://github.com/syncthing/syncthing,Go,3346,43281,118765,43281,"go, p2p, peer-to-peer, synchronization",283,Other
+soimort/you-get,https://github.com/soimort/you-get,Python,8787,43265,3599,43265,,238,Other
+python/cpython,https://github.com/python/cpython,Python,22074,43144,452853,43144,,1938,Other
+scrapy/scrapy,https://github.com/scrapy/scrapy,Python,9536,42929,22521,42929,"crawler, crawling, framework, hacktoberfest, python, scraping",517,"Web Application, Framework"
+meteor/meteor,https://github.com/meteor/meteor,JavaScript,5197,42820,113684,42820,"build-system, framework, hacktoberfest, javascript, meteor, mongodb, nodejs, npm, reactive-programming, zero-configuration",783,"Web Application, Framework"
+tiangolo/fastapi,https://github.com/tiangolo/fastapi,Python,3238,42606,11239,42606,"api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web",285,"Web Application, Framework"
+3b1b/manim,https://github.com/3b1b/manim,Python,4708,42557,73750,42557,"3b1b-videos, animation, explanatory-math-videos, python",151,Other
+junegunn/fzf,https://github.com/junegunn/fzf,Go,1846,42406,4344,42406,"bash, cli, fish, fzf, go, neovim, tmux, unix, vim, zsh",203,Other
+serverless/serverless,https://github.com/serverless/serverless,JavaScript,5156,42251,95133,42251,"aws, aws-dynamodb, aws-lambda, azure-functions, google-cloud-functions, microservice, serverless, serverless-architectures, serverless-framework",1100,"Web Application, Framework"
+prettier/prettier,https://github.com/prettier/prettier,JavaScript,3196,42041,82018,42041,"angular, ast, css, flow, formatter, graphql, html, javascript, json, jsx, less, markdown, prettier, printer, scss, typescript, vue, yaml",594,Web Application
+minimaxir/big-list-of-naughty-strings,https://github.com/minimaxir/big-list-of-naughty-strings,Python,1998,42008,330,42008,,83,Other
+juliangarnier/anime,https://github.com/juliangarnier/anime,JavaScript,3440,41696,47925,41696,"animation, anime, canvas, css, javascript, javascript-library, svg",55,Web Application
+aymericdamien/TensorFlow-Examples,https://github.com/aymericdamien/TensorFlow-Examples,Jupyter Notebook,15198,41694,10242,41694,"deep-learning, examples, machine-learning, python, tensorflow, tutorial",72,AI
+square/okhttp,https://github.com/square/okhttp,Kotlin,8789,41687,46054,41687,"android, graalvm, java, kotlin",291,Mobile App
+microsoft/Web-Dev-For-Beginners,https://github.com/microsoft/Web-Dev-For-Beginners,JavaScript,6135,41419,65418,41419,"css, curriculum, education, hacktoberfest, html, javascript, learning",134,Web Application
+prometheus/prometheus,https://github.com/prometheus/prometheus,Go,6870,41291,142782,41291,"alerting, graphing, hacktoberfest, metrics, monitoring, prometheus, time-series",774,Other
+git/git,https://github.com/git/git,C,23043,41256,188670,41256,"c, hacktoberfest, shell",2019,Other
+ColorlibHQ/AdminLTE,https://github.com/ColorlibHQ/AdminLTE,JavaScript,17524,40541,137133,40541,"admin, admin-dashboard, admin-panel, admin-template, bootstrap",123,Other
+JetBrains/kotlin,https://github.com/JetBrains/kotlin,Kotlin,4992,40517,1405851,40517,"compiler, gradle-plugin, intellij-plugin, kotlin, kotlin-library, maven-plugin, programming-language",736,Other
+babel/babel,https://github.com/babel/babel,TypeScript,5238,40512,84019,40512,"ast, babel, compiler, es2015, es6, flavortown, javascript",1082,Other
+yarnpkg/yarn,https://github.com/yarnpkg/yarn,JavaScript,2806,40503,119352,40503,"javascript, npm, package-manager, yarn",535,Other
+deepfakes/faceswap,https://github.com/deepfakes/faceswap,Python,11542,40439,200176,40439,"deep-face-swap, deep-learning, deep-neural-networks, deepface, deepfakes, deeplearning, face-swap, faceswap, fakeapp, machine-learning, myfakeapp, neural-nets, neural-networks, openfaceswap",88,AI
+parcel-bundler/parcel,https://github.com/parcel-bundler/parcel,JavaScript,2099,40321,28728,40321,"assets, build-tool, commonjs, compiler, css, es6, html, javascript, module-bundler, modules, web",343,Web Application
+android/architecture-samples,https://github.com/android/architecture-samples,Kotlin,11039,40253,12352,40253,"android, android-architecture, samples",59,Mobile App
+astaxie/build-web-application-with-golang,https://github.com/astaxie/build-web-application-with-golang,Go,10465,39724,38326,39724,,417,Other
+TryGhost/Ghost,https://github.com/TryGhost/Ghost,JavaScript,8603,39684,67986,39684,"blogging, cms, ember, ghost, hacktoberfest, headless-cms, jamstack, javascript, journalism, nodejs, publishing, web-application",448,Web Application
+square/retrofit,https://github.com/square/retrofit,Java,7068,39633,5695,39633,"android, java",189,Mobile App
+Solido/awesome-flutter,https://github.com/Solido/awesome-flutter,Dart,5801,39609,2448,39609,"android, awesome, awesome-list, collections, cross-platform, dartlang, flutter, flutter-apps, flutter-examples, flutter-plugin, flutter-plugins, ios, material-design, mobile, mobile-app, mobile-development, reactive-programming, resources",317,"Web Application, Mobile App"
+nuxt/nuxt.js,https://github.com/nuxt/nuxt.js,JavaScript,3210,39529,43486,39529,"framework, isomorphic, nuxt, server-rendering, ssr, universal, vue, vue-router, vuex, web-app",326,"Web Application, Framework"
+v2ray/v2ray-core,https://github.com/v2ray/v2ray-core,Go,8399,39183,55084,39183,"golang, http-proxy, proxy, shadowsocks, socks, socks5, v2ray, vmess",98,Other
+vsouza/awesome-ios,https://github.com/vsouza/awesome-ios,Swift,6480,39061,13180,39061,"apple-swift, arkit, awesome, ios, ios-animation, ios-libraries, objective-c, objective-c-library, swift-extensions, swift-framework, swift-language, swift-library, swift-programming",986,"Web Application, Mobile App, Framework"
+etcd-io/etcd,https://github.com/etcd-io/etcd,Go,8362,38984,66950,38984,"consensus, database, distributed-database, distributed-systems, etcd, go, key-value, kubernetes, raft",819,Other
+localstack/localstack,https://github.com/localstack/localstack,Python,2944,38944,12819,38944,"aws, continuous-integration, developer-tools, localstack, python, testing",431,Other
+nwjs/nw.js,https://github.com/nwjs/nw.js,JavaScript,3952,38753,130317,38753,"desktop, javascript, node-webkit, nodejs, nwjs, web-application-framework",125,"Web Application, Framework"
+Dogfalo/materialize,https://github.com/Dogfalo/materialize,JavaScript,4890,38659,163569,38659,"css, css-framework, design, framework, javascript, material, material-design",302,"Web Application, Framework"
+vitejs/vite,https://github.com/vitejs/vite,TypeScript,2914,38571,16445,38571,"build-tool, dev-server, frontend, hmr, vite",493,Web Application
+gogs/gogs,https://github.com/gogs/gogs,Go,4479,38560,195399,38560,"git, go, gogs, lsif-enabled",516,Other
+JuliaLang/julia,https://github.com/JuliaLang/julia,Julia,4833,38423,230392,38423,"hpc, julia, julia-language, machine-learning, numerical, programming-language, science, scientific",1451,AI
+facebook/jest,https://github.com/facebook/jest,TypeScript,5683,38169,269706,38169,"easy, expectation, facebook, immersive, javascript, painless, painless-javascript-testing, snapshot, testing",1427,Other
+x64dbg/x64dbg,https://github.com/x64dbg/x64dbg,C++,1773,38162,57234,38162,"cpp, debugger, disassembler, hacktoberfest, reverse-engineering, security, windows, x64, x86, x86-64",110,Other
+anuraghazra/github-readme-stats,https://github.com/anuraghazra/github-readme-stats,JavaScript,8839,38157,1019,38157,"dynamic, hacktoberfest, profile-readme, readme-generator, readme-stats, serverless",187,Other
+hoppscotch/hoppscotch,https://github.com/hoppscotch/hoppscotch,Vue,2659,38123,58877,38123,"api, api-client, api-rest, api-testing, developer-tools, graphql, http, http-client, nuxt, nuxtjs, pwa, rest, rest-api, spa, testing, testing-tools, tools, vue, vuejs, websocket",174,Web Application
+iamkun/dayjs,https://github.com/iamkun/dayjs,JavaScript,1899,38083,5112,38083,"date, date-formatting, datetime, dayjs, moment, time",286,Other
+DefinitelyTyped/DefinitelyTyped,https://github.com/DefinitelyTyped/DefinitelyTyped,TypeScript,26782,37972,814836,37972,"definition, dts, hacktoberfest, types, typescript, typescript-definitions, typings",18223,Other
+vercel/hyper,https://github.com/vercel/hyper,TypeScript,3164,37966,20876,37966,"css, html, hyper, javascript, linux, macos, react, terminal, terminal-emulators",277,Web Application
+alacritty/alacritty,https://github.com/alacritty/alacritty,Rust,2154,37771,11615,37771,"bsd, gpu, linux, macos, opengl, rust, terminal, terminal-emulators, vte, windows",370,Other
+mozilla/pdf.js,https://github.com/mozilla/pdf.js,JavaScript,8682,37746,130417,37746,,424,Other
+bailicangdu/vue2-elm,https://github.com/bailicangdu/vue2-elm,Vue,12134,37577,34427,37577,"es2015, flex, sass, vue, vue-router, vuex, webpack",17,Web Application
+caddyserver/caddy,https://github.com/caddyserver/caddy,Go,3009,37548,15367,37548,"automatic-https, caddyfile, go, http, http-server, https, privacy, reverse-proxy, security, tls, web-server",131,Web Application
+danielmiessler/SecLists,https://github.com/danielmiessler/SecLists,PHP,19182,37271,848483,37271,,221,Other
+Alamofire/Alamofire,https://github.com/Alamofire/Alamofire,Swift,7034,37185,25199,37185,"alamofire, carthage, certificate-pinning, cocoapods, httpurlresponse, networking, parameter-encoding, public-key-pinning, request, response, swift, swift-package-manager, urlrequest, urlsession, xcode",242,Other
+traefik/traefik,https://github.com/traefik/traefik,Go,4085,37068,62324,37068,"consul, docker, etcd, go, golang, kubernetes, letsencrypt, load-balancer, marathon, mesos, microservice, reverse-proxy, zookeeper",700,Other
+apache/dubbo,https://github.com/apache/dubbo,Java,24720,36891,39100,36891,dubbo,412,Other
+fighting41love/funNLP,https://github.com/fighting41love/funNLP,Python,10661,36839,137770,36839,,10,Other
+cypress-io/cypress,https://github.com/cypress-io/cypress,JavaScript,2220,36809,509445,36809,"cypress, e2e-testing, e2e-tests, end-to-end-testing, javascript-tests, test, test-automation, test-runner, test-suite, testing, testing-tools, tests",344,Other
+impress/impress.js,https://github.com/impress/impress.js,JavaScript,6847,36603,4511,36603,,82,Other
+obsproject/obs-studio,https://github.com/obsproject/obs-studio,C,5667,36602,53069,36602,"c, c-plus-plus, directshow, facebook-live, ffmpeg, game-capture, live-streaming, screen-capture, twitch-tv, video-recording, youtube-live",507,Other
+Unitech/pm2,https://github.com/Unitech/pm2,JavaScript,2385,36544,13019,36544,"command-line, command-line-tool, deploy, load-balancer, monitoring, node, nodejs, pm2, process-manager, production",305,Other
+FreeCodeCampChina/freecodecamp.cn,https://github.com/FreeCodeCampChina/freecodecamp.cn,CSS,1378,36531,30959,36531,"career, certification, cn-freecodecamp, community, curriculum, d3, education, freecodecamp, javascript, learn-to-code, math, nodejs, nonprofits, react",361,Web Application
+algorithm-visualizer/algorithm-visualizer,https://github.com/algorithm-visualizer/algorithm-visualizer,JavaScript,5951,36415,23832,36415,"algorithm, animation, data-structure, visualization",29,Other
+ocornut/imgui,https://github.com/ocornut/imgui,C++,6205,36109,80126,36109,"gamedev, gui, imgui, native, toolkit, tools, ui",305,Other
+styled-components/styled-components,https://github.com/styled-components/styled-components,TypeScript,2249,36082,10535,36082,"css, css-in-js, react, styled-components",322,Web Application
+dcloudio/uni-app,https://github.com/dcloudio/uni-app,JavaScript,3244,36024,58850,36024,"hbuilderx, javascript, miniprogram, mpvue, uni, uni-app, uniapp, vue",227,Web Application
+ethereum/go-ethereum,https://github.com/ethereum/go-ethereum,Go,13299,35859,176591,35859,"blockchain, ethereum, geth, go, p2p",687,Other
+pixijs/pixijs,https://github.com/pixijs/pixijs,TypeScript,4509,35662,76083,35662,"canvas, canvas2d, data-visualization, game, glsl, javascript, pixi, pixijs, renderer, rendering, rendering-2d-graphics, rendering-engine, webgl",439,Web Application
+Textualize/rich,https://github.com/Textualize/rich,Python,1145,35527,48139,35527,"ansi-colors, emoji, markdown, progress-bar, progress-bar-python, python, python-library, python3, rich, syntax-highlighting, tables, terminal, terminal-color, traceback, tracebacks-rich",157,Other
+swisskyrepo/PayloadsAllTheThings,https://github.com/swisskyrepo/PayloadsAllTheThings,Python,9627,35398,12400,35398,"bounty, bugbounty, bypass, cheatsheet, enumeration, hacking, hacktoberfest, methodology, payload, payloads, penetration-testing, pentest, privilege-escalation, redteam, security, vulnerability, web-application",195,Web Application
+pi-hole/pi-hole,https://github.com/pi-hole/pi-hole,Shell,2235,35253,6522,35253,"ad-blocker, blocker, cloud, dashboard, dhcp, dhcp-server, dns-server, dnsmasq, hacktoberfest, pi-hole, raspberry-pi, shell",221,Other
+chinese-poetry/chinese-poetry,https://github.com/chinese-poetry/chinese-poetry,JavaScript,7350,35246,209696,35246,"chinese, chinese-poetry, ci, json, poetry, tangshi",52,Other
+discourse/discourse,https://github.com/discourse/discourse,Ruby,7571,35113,445362,35113,"discourse, ember, forum, javascript, postgresql, rails, ruby",965,Other
+GitSquared/edex-ui,https://github.com/GitSquared/edex-ui,JavaScript,1990,35039,31579,35039,"desktop, edex-ui, electron, linux, macos, nodejs, science-fiction, shell, terminal, touchscreen, tron, unixporn, windows",62,Other
+huginn/huginn,https://github.com/huginn/huginn,Ruby,3214,34975,8371,34975,"agent, automation, feed, feedgenerator, huginn, monitoring, notifications, rss, scraper, twitter, twitter-streaming, webscraping",231,Web Application
+microsoft/playwright,https://github.com/microsoft/playwright,TypeScript,1531,34908,98700,34908,"automation, chrome, chromium, e2e-testing, electron, firefox, javascript, playwright, testing, web, webkit",202,Web Application
+PhilJay/MPAndroidChart,https://github.com/PhilJay/MPAndroidChart,Java,8672,34725,21720,34725,"android, chart, graph, java, mpandroidchart",80,Mobile App
+hexojs/hexo,https://github.com/hexojs/hexo,JavaScript,4280,34267,7300,34267,"hexo, javascript, nodejs, static-site-generator",181,Other
+fastlane/fastlane,https://github.com/fastlane/fastlane,Ruby,5137,34167,80521,34167,"android, apps, automation, deployment, fastlane, hacktoberfest, hacktoberfest2021, ios, mobile, ruby, screenshots",1468,Mobile App
+FiloSottile/mkcert,https://github.com/FiloSottile/mkcert,Go,1625,33966,1831,33966,"certificates, chrome, firefox, https, ios, linux, local-development, localhost, macos, root-ca, tls, windows",38,Mobile App
+CorentinJ/Real-Time-Voice-Cloning,https://github.com/CorentinJ/Real-Time-Voice-Cloning,Python,6191,33749,369627,33749,"deep-learning, python, pytorch, tensorflow, tts, voice-cloning",18,AI
+slatedocs/slate,https://github.com/slatedocs/slate,SCSS,21235,33737,2354,33737,"api, api-documentation, slate, static-site-generator",140,Web Application
+ryanoasis/nerd-fonts,https://github.com/ryanoasis/nerd-fonts,CSS,2628,33730,9225587,33730,"font, font-awesome, fonts, icon-font, iconic-fonts, octicons, patched-fonts, patcher, powerline, python, shell, statusline",133,Other
+adobe/brackets,https://github.com/adobe/brackets,JavaScript,8191,33678,92974,33678,,455,Other
+vuetifyjs/vuetify,https://github.com/vuetifyjs/vuetify,TypeScript,6106,33598,74361,33598,"hacktoberfest, javascript, material, material-components, material-design, material-theme, semantic, typescript, ui, ui-components, ui-design, ui-kit, vue, vue-components, vue-material, vuejs, vuejs3, vuetify, vuetifyjs",733,Web Application
+tauri-apps/tauri,https://github.com/tauri-apps/tauri,Rust,825,33587,60089,33587,"hacktoberfest, high-performance, rust, webview, works-with-clojurescript, works-with-construct, works-with-elm, works-with-flutter, works-with-gatsby, works-with-mint, works-with-phaser, works-with-quasar, works-with-react, works-with-reason, works-with-svelte, works-with-vue, works-with-yew",152,Web Application
+grpc/grpc,https://github.com/grpc/grpc,C++,8826,33489,412202,33489,,822,Other
+0voice/interview_internal_reference,https://github.com/0voice/interview_internal_reference,Python,9041,33450,751,33450,,30,Other
+commaai/openpilot,https://github.com/commaai/openpilot,Python,6116,33442,1791802,33442,,282,Other
+php/php-src,https://github.com/php/php-src,C,7096,33395,469617,33395,,1314,Other
+isocpp/CppCoreGuidelines,https://github.com/isocpp/CppCoreGuidelines,Python,4534,33346,26785,33346,,325,Other
+jakevdp/PythonDataScienceHandbook,https://github.com/jakevdp/PythonDataScienceHandbook,Jupyter Notebook,14923,33342,34707,33342,"jupyter-notebook, matplotlib, numpy, pandas, python, scikit-learn",17,Other
+AFNetworking/AFNetworking,https://github.com/AFNetworking/AFNetworking,Objective-C,10264,33284,6133,33284,,374,Other
+alvarotrigo/fullPage.js,https://github.com/alvarotrigo/fullPage.js,JavaScript,7437,33250,15484,33250,"fullpage, fullscreen, javascript, jquery, mousewheel, onepage, scrolling, sections, slide, slideshow, snap, swipe",161,Other
+shadowsocks/shadowsocks,https://github.com/shadowsocks/shadowsocks,Python,19421,33137,891,33137,,,Other
+yangshun/front-end-interview-handbook,https://github.com/yangshun/front-end-interview-handbook,JavaScript,4951,33135,15163,33135,"css, css-questions, front-end, front-end-development, front-end-interview, front-end-system-design, html, html-questions, interview, interview-preparation, interview-questions, interview-test, javascript, js-questions, web-development",150,Web Application
+Leaflet/Leaflet,https://github.com/Leaflet/Leaflet,JavaScript,5162,33087,53814,33087,"javascript, leaflet, maps",855,Other
+pandas-dev/pandas,https://github.com/pandas-dev/pandas,Python,14043,32930,264766,32930,"alignment, data-analysis, flexible, pandas, python",2938,Other
+videojs/video.js,https://github.com/videojs/video.js,JavaScript,7075,32888,124431,32888,"dash, flash, hls, html, html5, html5-audio, html5-video, javascript, player, video, videojs",479,Web Application
+apachecn/ailearning,https://github.com/apachecn/ailearning,Python,10758,32771,170951,32771,"adaboost, apriori, deeplearning, dnn, fp-growth, kmeans, logistic, lstm, mahchine-leaning, naivebayes, nlp, pca, python, recommendedsystem, regression, rnn, scikit-learn, sklearn, svd, svm",9,Other
+sahat/hackathon-starter,https://github.com/sahat/hackathon-starter,JavaScript,7567,32557,13675,32557,"boilerplate, hackathon, hacktoberfest, nodejs, oauth2, starter-kit",197,Other
+airbnb/lottie-android,https://github.com/airbnb/lottie-android,Java,5218,32488,135639,32488,"after-effects, airbnb, android, animation, lottie",116,Mobile App
+gulpjs/gulp,https://github.com/gulpjs/gulp,JavaScript,4397,32470,1104,32470,,257,Other
+shadowsocks/shadowsocks-android,https://github.com/shadowsocks/shadowsocks-android,Kotlin,11571,32345,53140,32345,"android, shadowsocks",47,Mobile App
+koajs/koa,https://github.com/koajs/koa,JavaScript,3148,32338,2822,32338,koa,215,Other
+BVLC/caffe,https://github.com/BVLC/caffe,C++,18959,32302,76170,32302,"deep-learning, machine-learning, vision",313,AI
+bumptech/glide,https://github.com/bumptech/glide,Java,5895,32283,91802,32283,"android, disk-cache, gif, glide, imageloader",168,Mobile App
+exacity/deeplearningbook-chinese,https://github.com/exacity/deeplearningbook-chinese,TeX,8975,32230,8908,32230,,20,Other
+apache/spark,https://github.com/apache/spark,Scala,25289,32192,410046,32192,"big-data, java, jdbc, python, r, scala, spark, sql",2631,Other
+PowerShell/PowerShell,https://github.com/PowerShell/PowerShell,C#,5270,32115,82830,32115,"command-line, hacktoberfest, linux, macos, netcore, powershell, shell, windows",435,Other
+quilljs/quill,https://github.com/quilljs/quill,JavaScript,2735,32070,13703,32070,"editor, quill, rich-text-editor, wysiwyg",136,Other
+ventoy/Ventoy,https://github.com/ventoy/Ventoy,C,2397,31998,177552,31998,"bootable-usb, chromeos, iso-files, legacy, linux, multiboot, secure-boot, uefi, unix, usb, vmware, windows",56,Other
+typescript-cheatsheets/react,https://github.com/typescript-cheatsheets/react,JavaScript,2679,31970,2529,31970,"cheatsheet, hacktoberfest, react, reference, ts, typescript, typescript-playground",150,Web Application
+google/material-design-lite,https://github.com/google/material-design-lite,HTML,5202,31969,56968,31969,"material, material-components, material-design, material-design-lite, mdl",198,Other
+minio/minio,https://github.com/minio/minio,Go,3692,31947,107318,31947,"amazon-s3, cloud, cloudnative, cloudstorage, go, objectstorage, s3, storage",355,Other
+lerna/lerna,https://github.com/lerna/lerna,JavaScript,2098,31866,10283,31866,"lerna, monorepo, npm, package, publishing",272,Other
+zenorocha/clipboard.js,https://github.com/zenorocha/clipboard.js,JavaScript,4036,31865,4270,31865,"clipboard, javascript",62,Other
+floodsung/Deep-Learning-Papers-Reading-Roadmap,https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap,Python,6819,31837,3638,31837,deep-learning,31,AI
+RocketChat/Rocket.Chat,https://github.com/RocketChat/Rocket.Chat,JavaScript,7232,31806,286450,31806,"chat, collaboration, foss, free, hacktoberfest, javascript, meteor, mit, real-time, slack, webrtc",874,Web Application
+immutable-js/immutable-js,https://github.com/immutable-js/immutable-js,TypeScript,1854,31802,40302,31802,,213,Other
+rclone/rclone,https://github.com/rclone/rclone,Go,2854,31607,169437,31607,"amazon-drive, azure-blob, backblaze-b2, cloud-storage, dropbox, encryption, ftp, fuse-filesystem, go, golang, google-cloud-storage, google-drive, hubic, onedrive, openstack-swift, rclone, s3, sftp, sync, webdav",549,Web Application
+iperov/DeepFaceLab,https://github.com/iperov/DeepFaceLab,Python,7159,31498,843002,31498,"arxiv, creating-deepfakes, deep-face-swap, deep-learning, deep-neural-networks, deepface, deepfacelab, deepfakes, deeplearning, face-swap, faceswap, fakeapp, machine-learning, neural-nets, neural-networks",21,AI
+NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra,Java,4117,31485,197325,31485,"disassembler, reverse-engineering, software-analysis",195,Other
+ant-design/ant-design-pro,https://github.com/ant-design/ant-design-pro,TypeScript,7373,31476,6528,31476,"admin, ant-design, antd, antv, boilerplate, dashboard, enterprise, react, umi",299,Web Application
+hashicorp/terraform,https://github.com/hashicorp/terraform,Go,7374,31455,192473,31455,"cloud, cloud-management, graph, infrastructure-as-code, terraform",1948,Other
+wg/wrk,https://github.com/wg/wrk,C,2612,31417,38743,31417,,,Other
+photonstorm/phaser,https://github.com/photonstorm/phaser,JavaScript,6675,31358,340636,31358,"canvas, facebook-instant-games, game-development, game-frameworks, gamedev, html5-game-development, javascript, phaser, phaser-development, phaserjs, webgl",586,"Web Application, Framework"
+Kong/kong,https://github.com/Kong/kong,Lua,4114,31344,23077,31344,"api-gateway, api-management, apis, cloud-native, consul, devops, docker, iot, kong, kubernetes, kubernetes-ingress, kubernetes-ingress-controller, luajit, microservice, microservices, nginx, reverse-proxy, serverless, servicecontrol",302,Web Application
+preactjs/preact,https://github.com/preactjs/preact,JavaScript,1740,31216,11110,31216,"components, dom, jsx, preact, react, vdom, virtual-dom",293,Web Application
+Homebrew/brew,https://github.com/Homebrew/brew,Ruby,7293,31211,57722,31211,"brew, homebrew, macos, package-manager, ruby",1031,Other
+facebook/docusaurus,https://github.com/facebook/docusaurus,TypeScript,4356,31120,225644,31120,"documentation, hacktoberfest, javascript, open-source, react, website",839,Web Application
+blueimp/jQuery-File-Upload,https://github.com/blueimp/jQuery-File-Upload,PHP,8221,31087,4398,31087,,112,Other
+jondot/awesome-react-native,https://github.com/jondot/awesome-react-native,JavaScript,3822,31052,8381,31052,"awesome-list, mobile, react, react-native",627,Web Application
+XX-net/XX-Net,https://github.com/XX-net/XX-Net,Python,7813,31045,44718,31045,"gfw, goagent, proxy, uncensored, vpn",89,Other
+open-guides/og-aws,https://github.com/open-guides/og-aws,Shell,3343,30914,8373,30914,,231,Other
+evanw/esbuild,https://github.com/evanw/esbuild,Go,780,30796,37993,30796,"commonjs, compiler, css, es6, javascript, jsx, minifier, module-bundler, react, tsx, typescript",78,Web Application
+faif/python-patterns,https://github.com/faif/python-patterns,Python,6222,30669,3754,30669,"design-patterns, idioms, python",121,Other
+NervJS/taro,https://github.com/NervJS/taro,TypeScript,4043,30590,1358238,30590,"javascript, jquery, nerv, nervjs, react, react-native, reactjs, taro, typescript, vue, vue3, wechat, wechat-mini-program, weixin, wxapp",451,Web Application
+testerSunshine/12306,https://github.com/testerSunshine/12306,Python,9480,30581,58572,30581,,32,Other
+pingcap/tidb,https://github.com/pingcap/tidb,Go,4937,30562,328497,30562,"cloud-native, database, distributed-database, distributed-transactions, go, hacktoberfest, htap, mysql, mysql-compatibility, scale, serverless, sql, tidb",788,Other
+dylanaraps/pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible,Shell,2754,30547,232,30547,"bash, bible, book, guide, handbook, how-to, learning, list, reference, script, shell, shell-scripts",21,Other
+google-research/bert,https://github.com/google-research/bert,Python,8569,30542,317,30542,"google, natural-language-processing, natural-language-understanding, nlp, tensorflow",30,Other
+Blankj/AndroidUtilCode,https://github.com/Blankj/AndroidUtilCode,Java,10168,30472,47296,30472,"android, androidx, app, bar, cache, encode, encrypt, eventbus, file, fragment, log, network, permission, reflect, regex, snackbar, spannable-string, thread-pool, toast, utils",46,Mobile App
+d2l-ai/d2l-zh,https://github.com/d2l-ai/d2l-zh,Python,7217,30442,232241,30442,"book, chinese, computer-vision, deep-learning, machine-learning, natural-language-processing, notebook, python",217,AI
+agalwood/Motrix,https://github.com/agalwood/Motrix,JavaScript,3616,30314,31790,30314,"aria2, bittorrent, bt, download, download-manager, electron, linux, mac, macos, magnet, motrix, windows",58,Other
+nolimits4web/swiper,https://github.com/nolimits4web/swiper,JavaScript,9609,30309,66579,30309,"carousel, gallery, mobile, slider, swipe, swiper, touch, touch-events",250,Other
+getsentry/sentry,https://github.com/getsentry/sentry,Python,3378,30269,247077,30269,"apm, crash-reporting, crash-reports, csp-report, devops, django, error-logging, error-monitoring, hacktoberfest, monitor, monitoring, python, sentry",631,Other
+wagoodman/dive,https://github.com/wagoodman/dive,Go,1166,30257,4492,30257,"cli, docker, docker-image, explorer, inspector, tui",39,Other
+shadowsocks/ShadowsocksX-NG,https://github.com/shadowsocks/ShadowsocksX-NG,Swift,7932,30176,50769,30176,"kcptun, macos, shadowsocks, shadowsocksx-ng, swift, v2ray-plugin",34,Other
+Eugeny/tabby,https://github.com/Eugeny/tabby,TypeScript,1797,30112,83300,30112,"serial, ssh-client, telnet-client, terminal, terminal-emulators",86,Other
+bilibili/ijkplayer,https://github.com/bilibili/ijkplayer,C,7764,30062,8283,30062,"android, ffmpeg, ijkplayer, ios, player, video",63,Mobile App
+google/styleguide,https://github.com/google/styleguide,HTML,11829,30021,2459,30021,"cpplint, style-guide, styleguide",96,Other
+geekxh/hello-algorithm,https://github.com/geekxh/hello-algorithm,Java,5859,30020,365033,30020,"algorithms, dynamic-programming, interview-questions, leetcode, leetcode-solutions",15,Other
+nativefier/nativefier,https://github.com/nativefier/nativefier,TypeScript,1924,29967,5736,29967,"desktop-application, electron, linux, macos, nodejs, windows",131,Other
+golang-standards/project-layout,https://github.com/golang-standards/project-layout,Makefile,3337,29954,293,29954,"go, golang, project-structure, project-template, standards",42,Other
+carbon-app/carbon,https://github.com/carbon-app/carbon,JavaScript,1683,29817,19339,29817,"beautiful, carbon, education, github-gist, javascript, presentation, sharing, snippets, tweet",177,Other
+jaredpalmer/formik,https://github.com/jaredpalmer/formik,TypeScript,2455,29811,13364,29811,"form, formik, forms, higher-order-component, hooks, react, react-hooks, react-native, render-props",418,Web Application
+sherlock-project/sherlock,https://github.com/sherlock-project/sherlock,Python,3352,29760,15931,29760,"cli, hacktoberfest, information-gathering, linux, macos, osint, python3, reconnaissance, redteam, sherlock, tools, windows",154,Other
+marktext/marktext,https://github.com/marktext/marktext,JavaScript,2154,29703,73633,29703,"dark-mode, editor, electron, element-ui, emoji, focus-mode, latex, linux, mac, macos, markdown, marktext, next-generation, source-code, typewriter-mode, vue, windows",145,Web Application
+eugenp/tutorials,https://github.com/eugenp/tutorials,Java,47388,29675,328314,29675,,1215,Other
+BurntSushi/ripgrep,https://github.com/BurntSushi/ripgrep,Rust,1343,29655,4444,29655,"cli, command-line, command-line-tool, gitignore, grep, recursively-search, regex, ripgrep, search",310,Other
+istio/istio,https://github.com/istio/istio,Go,6147,29649,213584,29649,"api-management, circuit-breaker, consul, enforce-policies, envoy, fault-injection, kubernetes, lyft-envoy, microservice, microservices, nomad, polyglot-microservices, proxies, request-routing, resiliency, service-mesh",879,Web Application
+GokuMohandas/MadeWithML,https://github.com/GokuMohandas/MadeWithML,Jupyter Notebook,4999,29648,25703,29648,"data-science, deep-learning, machine-learning, mlops, natural-language-processing, python, pytorch",,AI
+serhii-londar/open-source-mac-os-apps,https://github.com/serhii-londar/open-source-mac-os-apps,Swift,1945,29634,8067,29634,"applications, apps, awesome, awesome-list, c, c-plus-plus, hacktoberfest, javascript, mac, macos, macos-application, macosx, objective-c, open-source, opensource, python, ruby, swift",266,Other
+dkhamsing/open-source-ios-apps,https://github.com/dkhamsing/open-source-ios-apps,Swift,4665,29518,18321,29518,"app, apple, apple-tv, apple-watch, awesome, cocoapods, example, game, ios, ipad, iphone, list, objective-c, react-native, reactive-programming, reactiveswift, swift, swiftui, tvos, watchos",333,"Web Application, Mobile App"
+iina/iina,https://github.com/iina/iina,Swift,2194,29361,252276,29361,"macos, mpv, swift, video, video-player",115,Other
+google/zx,https://github.com/google/zx,JavaScript,640,29272,428,29272,"bash, cli, javascript, nodejs, shell",31,Other
+skylot/jadx,https://github.com/skylot/jadx,Java,3670,29257,17470,29257,"android, decompiler, dex, java",78,Mobile App
+microsoft/ML-For-Beginners,https://github.com/microsoft/ML-For-Beginners,Jupyter Notebook,6038,29249,176103,29249,"data-science, education, machine-learning, machine-learning-algorithms, machinelearning, machinelearning-python, ml, python, r, scikit-learn, scikit-learn-python",108,AI
+supabase/supabase,https://github.com/supabase/supabase,TypeScript,1644,29227,351726,29227,"firebase, postgres, postgresql, postgrest, realtime, supabase, websockets",324,Web Application
+zxing/zxing,https://github.com/zxing/zxing,Java,9169,29223,240945,29223,"android, barcode, barcode-scanner, datamatrix, java, qr-code, upc, zxing",157,Mobile App
+SheetJS/sheetjs,https://github.com/SheetJS/sheetjs,JavaScript,7461,29216,71305,29216,"angular, csv, data, database, deno, excel, grid, html, html5, ios, javascript, json, nodejs, react, spreadsheet, table, vue, xls, xlsx, xml",179,"Web Application, Mobile App"
+foundation/foundation-sites,https://github.com/foundation/foundation-sites,HTML,5674,29214,122676,29214,,1318,Other
+gorhill/uBlock,https://github.com/gorhill/uBlock,JavaScript,2346,29069,128393,29069,"blocker, browser-extension, chromium, firefox, javascript, ublock, ublock-origin",107,Web Application
+vuejs/vue-cli,https://github.com/vuejs/vue-cli,JavaScript,6066,29024,27800,29024,,476,Other
+unknwon/the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN,Go,7792,28931,12505,28931,"book, go, translation, tutorial",244,Other
+nlohmann/json,https://github.com/nlohmann/json,C++,4946,28872,292651,28872,"bson, cbor, header-only, json, json-diff, json-merge-patch, json-parser, json-patch, json-pointer, json-serialization, messagepack, msgpack, rfc-6901, rfc-6902, rfc-7049, rfc-7159, rfc-8259, stl-containers, ubjson",248,Other
+ariya/phantomjs,https://github.com/ariya/phantomjs,C++,5841,28746,164709,28746,"automation, headless, headless-browser, phantomjs",177,Web Application
+netty/netty,https://github.com/netty/netty,Java,14192,28657,77943,28657,,665,Other
+go-gitea/gitea,https://github.com/go-gitea/gitea,Go,3601,28634,233693,28634,"devops, git, gitea, github, gitlab, go, gogs, golang, hacktoberfest",1081,Other
+bayandin/awesome-awesomeness,https://github.com/bayandin/awesome-awesomeness,Ruby,3484,28592,356,28592,,249,Other
+google/leveldb,https://github.com/google/leveldb,C++,6320,28545,1581,28545,,67,Other
+alibaba/arthas,https://github.com/alibaba/arthas,Java,6270,28544,27045,28544,"agent, alibaba, arthas, classloader, diagnosis, java, jvm, trace, trouble-shooting",156,Other
+laurent22/joplin,https://github.com/laurent22/joplin,TypeScript,3203,28459,256457,28459,"android, dropbox, electron, enex-files, evernote, javascript, joplin, nextcloud, nodejs, onedrive, react-native, synchronisation, web-clipper, webdav",476,"Web Application, Mobile App"
+FFmpeg/FFmpeg,https://github.com/FFmpeg/FFmpeg,C,9324,28430,294543,28430,"audio, c, ffmpeg, fft, hevc, hls, matroska, mp4, mpeg, multimedia, rtmp, rtsp, streaming, video, webm",2174,Web Application
+microsoft/monaco-editor,https://github.com/microsoft/monaco-editor,JavaScript,2657,28373,49205,28373,"browser, editor, monaco-editor, typescript, vscode",256,Web Application
+chubin/cheat.sh,https://github.com/chubin/cheat.sh,Python,1435,28325,4532,28325,"cheatsheet, cli, command-line, curl, documentation, examples, hacktoberfest2021, help, terminal, tldr",57,Other
+streamich/react-use,https://github.com/streamich/react-use,TypeScript,2175,28317,81483,28317,,184,Other
+satwikkansal/wtfpython,https://github.com/satwikkansal/wtfpython,Python,2370,28299,1315,28299,"documentation, gotchas, interview-questions, pitfalls, python, python-interview-questions, snippets, wats, wtf",71,Other
+react-boilerplate/react-boilerplate,https://github.com/react-boilerplate/react-boilerplate,JavaScript,6002,28296,9315,28296,"i18n, immer, offline-first, react, react-boilerplate, redux, redux-saga, scaffolding, styled-components, webpack4",223,Web Application
+date-fns/date-fns,https://github.com/date-fns/date-fns,TypeScript,1427,28185,17812,28185,"date, date-fns, hacktoberfest, javascript, modules, nodejs, time, utilities",379,Other
+jeecgboot/jeecg-boot,https://github.com/jeecgboot/jeecg-boot,Java,11112,28094,47678,28094,"activiti, admin, ant-design, ant-design-vue, antd, codegenerator, java, jbpm, jeecg, jeecg-boot, jeecgboot, low-code, mybatis, shiro, spring, spring-boot, spring-cloud, springboot, springcloud, vue",11,Web Application
+jgraph/drawio,https://github.com/jgraph/drawio,JavaScript,5740,28065,938859,28065,,33,Other
+koalaman/shellcheck,https://github.com/koalaman/shellcheck,Haskell,1413,28000,5042,28000,"bash, developer-tools, haskell, linter, shell, static-analysis",130,Other
+fxsjy/jieba,https://github.com/fxsjy/jieba,Python,6506,27974,56033,27974,,48,Other
+vuejs/core,https://github.com/vuejs/core,TypeScript,4971,27921,19056,27921,,311,Other
+jashkenas/backbone,https://github.com/jashkenas/backbone,JavaScript,5608,27854,27321,27854,,343,Other
+freeCodeCamp/devdocs,https://github.com/freeCodeCamp/devdocs,Ruby,1875,27834,29879,27834,"api-documentation, app, devdocs, developer-tools, docs, documentation, documentation-tool, hacktoberfest, offline, pwa",179,Web Application
+beego/beego,https://github.com/beego/beego,Go,5423,27809,10634,27809,"beego, go",468,Other
+tastejs/todomvc,https://github.com/tastejs/todomvc,JavaScript,13923,27693,73004,27693,,355,Other
+metabase/metabase,https://github.com/metabase/metabase,Clojure,3791,27677,243779,27677,"analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization",312,Other
+shengxinjing/programmer-job-blacklist,https://github.com/shengxinjing/programmer-job-blacklist,Shell,1862,27672,329,27672,,17,Other
+poteto/hiring-without-whiteboards,https://github.com/poteto/hiring-without-whiteboards,JavaScript,2422,27620,3986,27620,"airtable, hiring, hiring-without-whiteboards, interview, jobs, tech, whiteboard",986,Other
+gto76/python-cheatsheet,https://github.com/gto76/python-cheatsheet,Python,5064,27553,12120,27553,"cheatsheet, python, python-cheatsheet, reference",12,Other
+mathiasbynens/dotfiles,https://github.com/mathiasbynens/dotfiles,Shell,8707,27517,836,27517,"bash, dotfiles, macos",144,Other
+caolan/async,https://github.com/caolan/async,JavaScript,2421,27464,7620,27464,"async, callbacks, javascript",265,Other
+cli/cli,https://github.com/cli/cli,Go,3406,27448,24512,27448,"cli, git, github-api-v4, golang",300,Web Application
+dotnet/aspnetcore,https://github.com/dotnet/aspnetcore,C#,7508,27428,311151,27428,"aspnetcore, dotnet, hacktoberfest",1152,Other
+typeorm/typeorm,https://github.com/typeorm/typeorm,TypeScript,4980,27406,25223,27406,"active-record, cockroachdb, data-mapper, database, electron, hacktoberfest, javascript, mariadb, mysql, oracle, orm, postgresql, react-native, sap, sap-hana, sqlite, sqlserver, typeorm, typescript, websql",832,Web Application
+aosabook/500lines,https://github.com/aosabook/500lines,JavaScript,5888,27373,60237,27373,,74,Other
+vuejs/vuex,https://github.com/vuejs/vuex,JavaScript,9372,27361,17024,27361,"javascript, state-management, time-travel, vue, vuex",331,Web Application
+kenwheeler/slick,https://github.com/kenwheeler/slick,JavaScript,5868,27353,3655,27353,,170,Other
+square/leakcanary,https://github.com/square/leakcanary,Kotlin,3870,27272,115208,27272,"android, java, kotlin, kotlin-android, leak-canary, leak-trace, leakcanary, memory-leak, outofmemory, outofmemoryerror",142,Mobile App
+LeCoupa/awesome-cheatsheets,https://github.com/LeCoupa/awesome-cheatsheets,JavaScript,4437,27198,8926,27198,"backend, bash, cheatsheet, cheatsheets, database, django, docker, feathersjs, frontend, javascript, kubernetes, language, nodejs, php, programming-language, redis, sailsjs, vim, vuejs, xcode",126,Web Application
+excalidraw/excalidraw,https://github.com/excalidraw/excalidraw,TypeScript,2114,27182,34599,27182,"collaboration, diagrams, drawing, hacktoberfest, productivity, whiteboard",181,Other
+ityouknow/spring-boot-examples,https://github.com/ityouknow/spring-boot-examples,Java,11802,27160,1012,27160,"docker, docker-composer, fastdfs, java, mongodb, mybatis, rabbitmq, scheduler, spring, spring-boot, spring-boot-examples, spring-boot-mail, spring-boot-mongodb, spring-boot-upload-file, spring-cloud, spring-data-jpa, springboot, springboot-shiro, springcloud, thymeleaf",8,Other
+jashkenas/underscore,https://github.com/jashkenas/underscore,JavaScript,5614,26343,6668,26343,,318,Other
+markedjs/marked,https://github.com/markedjs/marked,JavaScript,3151,27073,10479,27073,"commonmark, compiler, gfm, markdown, parser",142,Other
+go-gorm/gorm,https://github.com/go-gorm/gorm,Go,3072,27036,3926,27036,"go, golang, gorm, orm, web",319,Web Application
+alibaba/p3c,https://github.com/alibaba/p3c,Kotlin,7399,26972,25800,26972,,42,Other
+jgraph/drawio-desktop,https://github.com/jgraph/drawio-desktop,Shell,3044,26957,2581,26957,"diagram-editor, electron-app, graphics, javascript-applications",14,Other
+mastodon/mastodon,https://github.com/mastodon/mastodon,Ruby,4364,26851,139295,26851,"activity-stream, activitypub, docker, mastodon, microblog, social-network, webfinger",739,Web Application
+openai/gym,https://github.com/openai/gym,Python,7651,26797,5784,26797,,348,Other
+standard/standard,https://github.com/standard/standard,JavaScript,2180,26731,3479,26731,"development, ecmascript, es6, eslint, javascript, linter, nodejs, standard, static-code-analysis, style-guide",178,Other
+junegunn/vim-plug,https://github.com/junegunn/vim-plug,Vim script,1656,26644,8905,26644,vim,60,Other
+crossoverJie/JCSprout,https://github.com/crossoverJie/JCSprout,Java,7148,26612,1186,26612,"algorithm, basic-java, concurrent-programming, java, jvm, netty",28,Other
+ReactiveX/rxjs,https://github.com/ReactiveX/rxjs,TypeScript,2747,26560,125139,26560,"javascript, rxjs",511,Other
+romkatv/powerlevel10k,https://github.com/romkatv/powerlevel10k,Shell,1379,25909,75938,25909,zsh,250,Other
+rapid7/metasploit-framework,https://github.com/rapid7/metasploit-framework,Ruby,12014,26518,693565,26518,hacktoberfest,1317,Other
+amix/vimrc,https://github.com/amix/vimrc,Vim script,6861,26496,21784,26496,,84,Other
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form,TypeScript,1293,26462,26722,26462,"custom-hooks, form, form-builder, form-validation, forms, hooks, react, react-hooks, react-native, typescript, validation",203,Web Application
+laravel/framework,https://github.com/laravel/framework,PHP,8962,26404,64280,26404,"framework, laravel, php",3460,"Web Application, Framework"
+apolloconfig/apollo,https://github.com/apolloconfig/apollo,Java,9662,26389,49674,26389,"config-management, configuration-management, distributed-configuration, microservices, spring-boot, spring-cloud",131,Other
+vim/vim,https://github.com/vim/vim,Vim script,4029,26378,155064,26378,"c, cross-platform, text-editor, vim",105,Other
+fzaninotto/Faker,https://github.com/fzaninotto/Faker,PHP,3316,26376,10094,26376,,511,Other
+elsewhencode/project-guidelines,https://github.com/elsewhencode/project-guidelines,JavaScript,2870,26372,444,26372,"best-practices, guidelines, how-to, javascript, javascript-best-practices, maintainability",77,Other
+atlassian/react-beautiful-dnd,https://github.com/atlassian/react-beautiful-dnd,JavaScript,2016,26369,15252,26369,"dnd, drag, drag-and-drop, react, reordering, sortable",125,Web Application
+airbnb/lottie-web,https://github.com/airbnb/lottie-web,JavaScript,2629,26361,311558,26361,,90,Other
+jashkenas/underscore,https://github.com/jashkenas/underscore,JavaScript,5614,26343,6668,26343,,318,Other
+pyenv/pyenv,https://github.com/pyenv/pyenv,Roff,2360,26317,4265,26317,"python, shell",358,Other
+2dust/v2rayN,https://github.com/2dust/v2rayN,C#,5553,26273,12503,26273,"proxy, shadowsocks, socks5, trojan, v2fly, v2ray, vless, vmess, windows, xray, xtls",17,Other
+composer/composer,https://github.com/composer/composer,PHP,6269,26272,23203,26272,"composer, dependency-manager, hacktoberfest, package-manager, packages, php",1106,Other
+mitmproxy/mitmproxy,https://github.com/mitmproxy/mitmproxy,Python,3239,26157,52451,26157,"debugging, hacktoberfest, http, http2, man-in-the-middle, proxy, python, security, ssl, tls, websocket",423,Web Application
+Tencent/weui,https://github.com/Tencent/weui,HTML,6517,26139,9753,26139,"mobile-web, style, wechat, weui",30,Web Application
+jesseduffield/lazygit,https://github.com/jesseduffield/lazygit,Go,1015,26102,36119,26102,"cli, git, terminal",149,Other
+hasura/graphql-engine,https://github.com/hasura/graphql-engine,Haskell,2204,26039,311733,26039,"access-control, api, automatic-api, bigquery, graphql, graphql-api, graphql-server, haskell, hasura, mysql, postgres, rest-api, sql-server",362,Web Application
+houshanren/hangzhou_house_knowledge,https://github.com/houshanren/hangzhou_house_knowledge,CSS,5402,26037,868034,26037,"hangzhou, knowledge",8,Other
+raywenderlich/swift-algorithm-club,https://github.com/raywenderlich/swift-algorithm-club,Swift,4681,26010,14104,26010,"algorithms, data-structures, swift",306,Other
+webtorrent/webtorrent,https://github.com/webtorrent/webtorrent,JavaScript,2536,26000,11341,26000,"bittorrent, browser, hacktoberfest, javascript, nodejs, p2p, streaming, torrent, webrtc, webtorrent",176,Web Application
+postcss/postcss,https://github.com/postcss/postcss,TypeScript,1472,25944,10283,25944,"ast, css, framework, parser, postcss",389,"Web Application, Framework"
+romkatv/powerlevel10k,https://github.com/romkatv/powerlevel10k,Shell,1379,25909,75938,25909,zsh,250,Other
+psf/black,https://github.com/psf/black,Python,1635,25887,6266,25887,"autopep8, code, codeformatter, formatter, gofmt, pre-commit-hook, python, yapf",309,Other
+IanLunn/Hover,https://github.com/IanLunn/Hover,CSS,5617,25862,984,25862,"css, css-effects, sass",21,Web Application
+sequelize/sequelize,https://github.com/sequelize/sequelize,JavaScript,3972,25774,33514,25774,"db2, javascript, mariadb, microsoft-sql-server, mssql, mysql, nosql, orm, postgresql, sequelize, sql, sqlite, transactions",1162,Other
+sentsin/layui,https://github.com/sentsin/layui,JavaScript,6959,25740,6509,25740,"css, html, javascript, js, layui, ui",19,Web Application
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query,TypeScript,1399,25739,27128,25739,"async, cache, data, fetch, graphql, hooks, query, react, rest, stale, stale-while-revalidate, update",394,Web Application
+typicode/husky,https://github.com/typicode/husky,JavaScript,914,25731,3296,25731,"commit, git, hooks, pre-commit",90,Other
+JakeWharton/butterknife,https://github.com/JakeWharton/butterknife,Java,4725,25713,3909,25713,,104,Other
+aria2/aria2,https://github.com/aria2/aria2,C++,2913,25677,31081,25677,"bittorrent, cpp11, download, ftp, http, metalink, rpc, sftp",60,Other
+naptha/tesseract.js,https://github.com/naptha/tesseract.js,JavaScript,1758,25677,105045,25677,"deep-learning, javascript, ocr, tesseract, webassembly",59,"Web Application, AI"
+lib-pku/libpku,https://github.com/lib-pku/libpku,TeX,7676,25632,714371,25632,,15,Other
+nvie/gitflow,https://github.com/nvie/gitflow,Shell,2644,25608,5251,25608,,48,Other
+acmesh-official/acme.sh,https://github.com/acmesh-official/acme.sh,Shell,3535,25592,5458,25592,"acme, acme-client, acme-protocol, ash, bash, buypass, certbot, letsencrypt, posix, posix-sh, shell, zerossl",422,Other
+denysdovhan/wtfjs,https://github.com/denysdovhan/wtfjs,JavaScript,1800,25577,1941,25577,"book, handbook, javascript, js, learning, notes, specification, wtf",77,Other
+QSCTech/zju-icicles,https://github.com/QSCTech/zju-icicles,HTML,7487,25536,3224735,25536,,87,Other
+niklasvh/html2canvas,https://github.com/niklasvh/html2canvas,TypeScript,4325,25536,117300,25536,"dom, javascript, screenshot",56,Other
+VincentGarreau/particles.js,https://github.com/VincentGarreau/particles.js,JavaScript,4535,25474,158,25474,,16,Other
+spf13/cobra,https://github.com/spf13/cobra,Go,2238,25470,1539,25470,"cli, cli-app, cobra, cobra-generator, cobra-library, command, command-cobra, command-line, commandline, go, golang, golang-application, golang-library, posix, posix-compliant-flags, subcommands",234,Other
+request/request,https://github.com/request/request,JavaScript,3132,25425,2290,25425,,343,Other
+google/googletest,https://github.com/google/googletest,C++,8319,25299,10611,25299,,394,Other
+proxyee-down-org/proxyee-down,https://github.com/proxyee-down-org/proxyee-down,Java,4622,25260,26860,25260,,13,Other
+rethinkdb/rethinkdb,https://github.com/rethinkdb/rethinkdb,C++,1849,25259,279626,25259,,249,Other
+angular/angular-cli,https://github.com/angular/angular-cli,TypeScript,12139,25233,92128,25233,"angular, angular-cli, cli, typescript",585,Web Application
+ggreer/the_silver_searcher,https://github.com/ggreer/the_silver_searcher,C,1327,23326,2426,23326,"ag, c, command-line-tool, pcre, search-in-text, silver-searcher",243,Other
+tabler/tabler,https://github.com/tabler/tabler,HTML,2873,25207,77145,25207,"admin-dashboard, adminpanel, boilerplate-template, bootstrap, bootstrap4-theme, bootstrap5, css, dashboard, dashboard-templates, dashboards, html, html5, jekyll, modular, sass, scss, sponsors, themes, ui-kit, uikit",73,Web Application
+github/fetch,https://github.com/github/fetch,JavaScript,3113,25197,531,25197,"fetch, javascript, polyfill, promise",73,Other
+alibaba/druid,https://github.com/alibaba/druid,Java,8027,25173,65274,25173,,212,Other
+Modernizr/Modernizr,https://github.com/Modernizr/Modernizr,JavaScript,3041,25159,20352,25159,"css3-features, feature-detection, hacktoberfest, javascript, javascript-library, modernizr",314,Web Application
+docker/compose,https://github.com/docker/compose,Go,4239,25128,21923,25128,"docker, docker-compose, go, golang, orchestration",75,Other
+hankcs/HanLP,https://github.com/hankcs/HanLP,Python,6706,25102,71470,25102,"dependency-parser, hanlp, named-entity-recognition, natural-language-processing, nlp, pos-tagging, semantic-parsing, text-classification",41,Other
+Advanced-Frontend/Daily-Interview-Question,https://github.com/Advanced-Frontend/Daily-Interview-Question,JavaScript,3167,25069,199,25069,"css, interview, javascript, react, vue",12,Web Application
+danielgindi/Charts,https://github.com/danielgindi/Charts,Swift,5165,25049,181668,25049,,161,Other
+transloadit/uppy,https://github.com/transloadit/uppy,JavaScript,1655,25021,355834,25021,"dropbox, encoding, file-uploader, file-uploads, files, instagram, javascript, mit, modular, open-source, pick-files, resumable, transloadit, tus, uploader, uppy, webbrowser",335,Web Application
+apache/airflow,https://github.com/apache/airflow,Python,10136,25005,152358,25005,"airflow, apache, apache-airflow, hacktoberfest, python, scheduler, workflow",2299,Other
+facebookresearch/Detectron,https://github.com/facebookresearch/Detectron,Python,5443,25000,4483,25000,,40,Other
+mobxjs/mobx,https://github.com/mobxjs/mobx,TypeScript,1652,24909,18498,24909,"javascript, mobx, react, reactive-programming, typescript",299,Web Application
+xkcoding/spring-boot-demo,https://github.com/xkcoding/spring-boot-demo,Java,8802,24894,13873,24894,"demo, in-action, java, spring, spring-boot, spring-boot-2, spring-boot-demo, web, xkcoding",12,Web Application
+dbeaver/dbeaver,https://github.com/dbeaver/dbeaver,Java,2346,24892,271663,24892,"database, db2, dbeaver, erd, gui, java, mysql, nosql, oracle, postgresql, redshift, sql, sqlite, sqlserver",239,Other
+jgm/pandoc,https://github.com/jgm/pandoc,Haskell,2853,24876,57353,24876,"commonmark, converter, document, haskell, markdown, markup, pandoc, presentation, publishing",443,Other
+donnemartin/interactive-coding-challenges,https://github.com/donnemartin/interactive-coding-challenges,Python,4033,24849,7768,24849,"algorithm, coding, competitive-programming, data-structure, development, interview, interview-practice, interview-questions, programming, python",45,Other
+cheeriojs/cheerio,https://github.com/cheeriojs/cheerio,TypeScript,1526,24818,10068,24818,"cheerio, dom, html, htmlparser, htmlparser2, jquery, parser, scraper, selector",139,Web Application
+geekcomputers/Python,https://github.com/geekcomputers/Python,Python,10720,24786,30921,24786,,655,Other
+trailofbits/algo,https://github.com/trailofbits/algo,Jinja,2044,24743,3036,24743,"ansible, encryption, ikev2, ipsec, security, ssh-tunnel, strongswan, vpn, vpn-client, vpn-server, wireguard",168,Other
+nylas/nylas-mail,https://github.com/nylas/nylas-mail,JavaScript,1461,24640,87026,24640,"babel, electron, email, flux, javascript, linux, macos, nylas-mail, productivity, react, windows",114,Web Application
+harness/drone,https://github.com/harness/drone,Go,2407,24577,28768,24577,"build-automation, build-pipelines, ci, ci-cd, continuous-delivery, continuous-integration, docker, go, hacktoberfest",313,Other
+rust-unofficial/awesome-rust,https://github.com/rust-unofficial/awesome-rust,Rust,1687,24531,7244,24531,"awesome, rust",690,Other
+GitbookIO/gitbook,https://github.com/GitbookIO/gitbook,JavaScript,3647,24488,8666,24488,,95,Other
+codemirror/CodeMirror,https://github.com/codemirror/CodeMirror,JavaScript,4844,24466,18507,24466,,970,Other

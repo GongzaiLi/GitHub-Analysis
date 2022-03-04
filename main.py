@@ -68,8 +68,8 @@ def procces_item(items, http_headers):
         size = item['size']
         contributors = count_contributors_response(item['contributors_url'], http_headers)
         stars = item['stargazers_count']
-        topic = f"{item['topics']}"
-        project_category = f"{project_category_check(item['topics'])}"
+        topic = f"{', '.join(map(str, item['topics']))}"
+        project_category = f"{', '.join(map(str, project_category_check(item['topics'])))}"
         data.append([project_name, url, language, forks, watchers, size, stars, topic, contributors, project_category])
     return data
 
@@ -122,13 +122,12 @@ if __name__ == '__main__':
     # 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
     http_headers = {"Authorization": "token " + "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",
                     'Accept': 'application/vnd.github.v3+json'}
-
-    filename = F"github_info_stars_over_{STARTS_NUMBER}.csv"
-
+    top = 1000
+    filename = F"github_info_stars_over_{STARTS_NUMBER}_top_{top}.csv"
 
     while True:
 
-        if PAGE == 1001:
+        if PAGE == 1001 or PAGE > top:
             print("=====================================end=================================")
             exit(1)
 
@@ -144,10 +143,6 @@ if __name__ == '__main__':
             print("=====================================end=================================")
             exit(1)
 
-
-
         data = procces_item(response_items, http_headers)
         write_in_csv(data, PAGE, filename)
         PAGE += 1
-
-

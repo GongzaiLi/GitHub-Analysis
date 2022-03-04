@@ -1,0 +1,84 @@
+Project Name,URL,Language,Forks,Watchers,Size Byte,Stars,Topics,Contributors,Type
+freeCodeCamp/freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,JavaScript,28102,341519,300875,341519,"careers, certification, community, curriculum, d3, education, freecodecamp, hacktoberfest, javascript, learn-to-code, math, nodejs, nonprofits, programming, react, teachers",4825,Web Application
+vuejs/vue,https://github.com/vuejs/vue,JavaScript,31563,193550,27822,193550,"framework, frontend, javascript, vue",337,"Framework, Web Application"
+kamranahmedse/developer-roadmap,https://github.com/kamranahmedse/developer-roadmap,TypeScript,27050,187823,109182,187823,"angular-roadmap, backend-roadmap, computer-science, dba-roadmap, developer-roadmap, devops-roadmap, engineering, frontend-roadmap, go-roadmap, java-roadmap, python-roadmap, react-roadmap, roadmap, study-plan",100,Web Application
+facebook/react,https://github.com/facebook/react,JavaScript,37519,183349,176270,183349,"declarative, frontend, javascript, library, react, ui",1705,Web Application
+public-apis/public-apis,https://github.com/public-apis/public-apis,Python,21108,182590,5245,182590,"api, apis, dataset, development, free, list, lists, open-source, public, public-api, public-apis, resources, software",1365,Web Application
+donnemartin/system-design-primer,https://github.com/donnemartin/system-design-primer,Python,30547,164995,11154,164995,"design, design-patterns, design-system, development, interview, interview-practice, interview-questions, programming, python, system, web, web-application, webapp",113,Web Application
+tensorflow/tensorflow,https://github.com/tensorflow/tensorflow,C++,86443,163287,863943,163287,"deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow",3929,AI
+twbs/bootstrap,https://github.com/twbs/bootstrap,JavaScript,76246,155702,196943,155702,"bootstrap, css, css-framework, html, javascript, sass, scss",1508,"Framework, Web Application"
+ohmyzsh/ohmyzsh,https://github.com/ohmyzsh/ohmyzsh,Shell,23723,141521,9384,141521,"cli, cli-app, hacktoberfest, plugin-framework, plugins, productivity, shell, terminal, theme, themes, zsh, zsh-configuration",2244,"Framework, Web Application"
+flutter/flutter,https://github.com/flutter/flutter,Dart,20929,137044,186161,137044,"android, app-framework, dart, dart-platform, desktop, fuchsia, ios, linux-desktop, macos, material-design, mobile, skia, web, web-framework, windows",1062,"Mobile App, Framework, Web Application"
+trekhleb/javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,JavaScript,22526,136326,4397,136326,"algorithm, algorithms, computer-science, data-structures, interview, interview-preparation, javascript, javascript-algorithms",196,Other
+TheAlgorithms/Python,https://github.com/TheAlgorithms/Python,Python,34478,130395,12571,130395,"algorithm, algorithm-competitions, algorithms-implemented, algos, community-driven, education, hacktoberfest, interview, learn, practice, python, searches, sorting-algorithms, sorts",829,Other
+microsoft/vscode,https://github.com/microsoft/vscode,TypeScript,21737,128393,464743,128393,"editor, electron, microsoft, typescript, visual-studio-code",1971,Other
+torvalds/linux,https://github.com/torvalds/linux,C,41743,127874,3672276,127874,,,Other
+airbnb/javascript,https://github.com/airbnb/javascript,JavaScript,22957,120217,3465,120217,"arrow-functions, es2015, es2016, es2017, es2018, es6, eslint, javascript, linting, naming-conventions, style-guide, style-linter, styleguide, tc39",528,Other
+vinta/awesome-python,https://github.com/vinta/awesome-python,Python,20786,118473,6616,118473,"awesome, collections, python, python-framework, python-library, python-resources",416,"Framework, Web Application"
+Snailclimb/JavaGuide,https://github.com/Snailclimb/JavaGuide,Java,40151,117953,146546,117953,"algorithms, interview, java, jvm, mysql, redis, spring, system, system-design, zookeeper",343,Other
+jackfrued/Python-100-Days,https://github.com/jackfrued/Python-100-Days,Python,44738,115429,308945,115429,,14,Other
+ytdl-org/youtube-dl,https://github.com/ytdl-org/youtube-dl,Python,7236,107008,64016,107008,,969,Other
+facebook/react-native,https://github.com/facebook/react-native,JavaScript,21825,101434,846366,101434,,3108,Other
+electron/electron,https://github.com/electron/electron,C++,13246,100566,112506,100566,"c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces",1277,Web Application
+d3/d3,https://github.com/d3/d3,JavaScript,22985,100486,42260,100486,"chart, charts, data-visualization, svg, visualization",136,Other
+golang/go,https://github.com/golang/go,Go,14365,96036,291090,96036,"go, golang, language, programming-language",2145,Other
+facebook/create-react-app,https://github.com/facebook/create-react-app,JavaScript,24022,93710,22234,93710,"build-tools, react, zero-configuration",918,Web Application
+30-seconds/30-seconds-of-code,https://github.com/30-seconds/30-seconds-of-code,JavaScript,9856,92679,28721,92679,"awesome-list, education, es6-javascript, javascript, learn-to-code, learning-resources, nodejs, programming, snippets, snippets-collection",288,Other
+axios/axios,https://github.com/axios/axios,JavaScript,9262,91455,5237,91455,"hacktoberfest, http-client, javascript, nodejs, promise",323,Web Application
+kubernetes/kubernetes,https://github.com/kubernetes/kubernetes,Go,31572,86022,1059454,86022,"cncf, containers, go, kubernetes",4264,Other
+nodejs/node,https://github.com/nodejs/node,JavaScript,22919,85947,794710,85947,"javascript, js, linux, macos, mit, node, nodejs, runtime, windows",3437,Other
+vercel/next.js,https://github.com/vercel/next.js,JavaScript,17107,82504,1741935,82504,"blog, browser, compiler, components, hybrid, nextjs, node, react, server-rendering, ssg, static, static-site-generator, universal, vercel",2130,Web Application
+microsoft/terminal,https://github.com/microsoft/terminal,C++,7228,81430,106158,81430,"cmd, command-line, console, terminal, windows-console, windows-terminal, wsl",324,Other
+denoland/deno,https://github.com/denoland/deno,Rust,4304,80617,54212,80617,"deno, javascript, rust, typescript",684,Other
+angular/angular,https://github.com/angular/angular,TypeScript,21014,79919,374095,79919,"angular, javascript, pwa, typescript, web, web-framework, web-performance",1732,"Framework, Web Application"
+mrdoob/three.js,https://github.com/mrdoob/three.js,JavaScript,30838,79637,1143561,79637,"3d, augmented-reality, canvas, html5, javascript, svg, virtual-reality, webaudio, webgl, webgl2, webgpu, webxr",1950,Web Application
+awesome-selfhosted/awesome-selfhosted,https://github.com/awesome-selfhosted/awesome-selfhosted,JavaScript,5453,78893,14367,78893,"awesome, awesome-list, cloud, hosting, privacy, self-hosted, selfhosted",1081,Other
+microsoft/TypeScript,https://github.com/microsoft/TypeScript,TypeScript,10287,78502,1684594,78502,"javascript, language, typechecker, typescript",702,Other
+ant-design/ant-design,https://github.com/ant-design/ant-design,TypeScript,32785,78470,801481,78470,"ant-design, antd, design-systems, react, typescript, ui-kit, ui-library",1789,Web Application
+puppeteer/puppeteer,https://github.com/puppeteer/puppeteer,TypeScript,8156,76569,32477,76569,"automation, developer-tools, headless-chrome, node-module, testing, web",410,Web Application
+avelino/awesome-go,https://github.com/avelino/awesome-go,Go,9557,76215,10130,76215,"awesome, awesome-list, go, golang, golang-library, hacktoberfest",1783,Other
+mui/material-ui,https://github.com/mui/material-ui,JavaScript,26284,76091,278224,76091,"design-systems, hacktoberfest, javascript, material-design, react, react-components, typescript",2699,Web Application
+goldbergyoni/nodebestpractices,https://github.com/goldbergyoni/nodebestpractices,JavaScript,7739,75536,61837,75536,"best-practices, es6, eslint, express, expressjs, javascript, jest, microservices, mocha, node-js, nodejs, nodejs-development, npm, rest, style-guide, styleguide, testing, types",230,Other
+PanJiaChen/vue-element-admin,https://github.com/PanJiaChen/vue-element-admin,Vue,27043,74408,15437,74408,"admin, admin-dashboard, admin-template, axios, dashboard, desktop, element, element-ui, i18n, management-system, mock, tinymce, vue, vue-admin, vue-cli, vuex, webpack, webpack4, xlsx",124,"Mobile App, Web Application"
+animate-css/animate.css,https://github.com/animate-css/animate.css,CSS,16074,73810,1922,73810,"animation, css, css-animations, stylesheets",129,Web Application
+iluwatar/java-design-patterns,https://github.com/iluwatar/java-design-patterns,Java,22866,73487,28238,73487,"awesome-list, design-patterns, hacktoberfest, java, principles, snippets, snippets-collection, snippets-library",310,Other
+tensorflow/models,https://github.com/tensorflow/models,Python,45544,72927,591371,72927,,851,Other
+microsoft/PowerToys,https://github.com/microsoft/PowerToys,C#,3935,69576,286397,69576,"color-picker, desktop, fancyzones, keyboard-manager, microsoft-powertoys, powerrename, powertoys, windows",293,Other
+MisterBooo/LeetCodeAnimation,https://github.com/MisterBooo/LeetCodeAnimation,Java,13328,69164,509807,69164,"animation, leetcode, leetcode-c, leetcode-java, leetcode-solutions",20,Other
+storybookjs/storybook,https://github.com/storybookjs/storybook,TypeScript,7157,69129,474891,69129,"angular, components, design-systems, documentation, ember, html, javascript, polymer, react, react-native, storybook, styleguide, svelte, testing, typescript, ui, ui-components, vue, web-components, webpack",1692,Web Application
+laravel/laravel,https://github.com/laravel/laravel,PHP,22281,68892,10380,68892,"framework, laravel, php",735,"Framework, Web Application"
+FortAwesome/Font-Awesome,https://github.com/FortAwesome/Font-Awesome,JavaScript,11964,68847,86963,68847,"css, font, fontawesome, icons, svg-icons, svg-sprites, webfont",2,Web Application
+nvbn/thefuck,https://github.com/nvbn/thefuck,Python,3086,67038,4087,67038,"python, shell",185,Other
+yangshun/tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,JavaScript,9263,66810,6833,66810,"algorithm, algorithm-interview, algorithm-interview-questions, algorithms, behavioral-interviews, coding-interviews, interview-practice, interview-preparation, interview-questions, system-design",109,Other
+ryanmcdermott/clean-code-javascript,https://github.com/ryanmcdermott/clean-code-javascript,JavaScript,8580,64704,574,64704,"best-practices, clean-architecture, clean-code, composition, inheritance, javascript, principles",117,Other
+gothinkster/realworld,https://github.com/gothinkster/realworld,Shell,5907,64203,4559,64203,,78,Other
+rust-lang/rust,https://github.com/rust-lang/rust,Rust,8903,64030,783702,64030,"compiler, language, rust",4822,Other
+django/django,https://github.com/django/django,Python,26680,62693,221328,62693,"apps, django, framework, models, orm, python, templates, views, web",2677,"Framework, Web Application"
+moby/moby,https://github.com/moby/moby,Go,17989,62321,178422,62321,"containers, docker, go",2348,Other
+tonsky/FiraCode,https://github.com/tonsky/FiraCode,Clojure,2770,62320,91168,62320,"font, ligatures, programming-ligatures",106,Other
+bitcoin/bitcoin,https://github.com/bitcoin/bitcoin,C++,31720,62248,198121,62248,"bitcoin, c-plus-plus, cryptocurrency, cryptography, p2p",1046,Other
+Genymobile/scrcpy,https://github.com/Genymobile/scrcpy,C,6617,62039,4036,62039,"android, c, ffmpeg, libav, mirroring, recording, screen, sdl2",103,Mobile App
+doocs/advanced-java,https://github.com/doocs/advanced-java,Java,16702,61309,28707,61309,"advanced-java, distributed-search-engine, distributed-systems, doocs, dubbo, elasticsearch, eureka, feign, high-availability, high-concurrency, hystrix, java, message-queue, microservices-architecture, redis, ribbon, rpc, spring-cloud, springcloud-config, zookeeper",35,Other
+webpack/webpack,https://github.com/webpack/webpack,JavaScript,8244,60578,57237,60578,"amd, build-tool, commonjs, compiler, es2015, es6, esm, javascript, javascript-compiler, javascript-modules, loaders, module-bundler, plugins, web, web-performance, webpack",805,Web Application
+opencv/opencv,https://github.com/opencv/opencv,C++,50419,60024,504583,60024,"c-plus-plus, computer-vision, deep-learning, image-processing, opencv",1872,AI
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot,Java,35790,59867,147212,59867,"framework, java, spring, spring-boot",1081,"Framework, Web Application"
+typicode/json-server,https://github.com/typicode/json-server,JavaScript,5831,59863,2721,59863,,76,Other
+angular/angular.js,https://github.com/angular/angular.js,JavaScript,28390,59518,101603,59518,,1849,Other
+huggingface/transformers,https://github.com/huggingface/transformers,Python,13912,58843,90202,58843,"bert, deep-learning, flax, hacktoberfest, jax, language-model, language-models, machine-learning, model-hub, natural-language-processing, nlp, nlp-library, pretrained-models, python, pytorch, pytorch-transformers, seq2seq, speech-recognition, tensorflow, transformer",1165,AI
+apple/swift,https://github.com/apple/swift,C++,9445,58835,779761,58835,,1133,Other
+elastic/elasticsearch,https://github.com/elastic/elasticsearch,Java,21349,58710,964320,58710,"elasticsearch, java, search-engine",1854,Other
+hakimel/reveal.js,https://github.com/hakimel/reveal.js,JavaScript,16038,58621,18450,58621,"presentations, slides, slideshow",324,Other
+netdata/netdata,https://github.com/netdata/netdata,C,5208,58306,85073,58306,"alerting, analytics, cncf, containers, dashboard, devops, docker, grafana, graphing, graphite, influxdb, iot, kubernetes, monitoring, netdata, notifications, observability, prometheus, statsd, time-series",537,Other
+pallets/flask,https://github.com/pallets/flask,Python,14902,58167,8994,58167,"flask, jinja, pallets, python, web-framework, werkzeug, wsgi",757,"Framework, Web Application"
+reduxjs/redux,https://github.com/reduxjs/redux,TypeScript,15126,57587,25376,57587,redux,922,Other
+gohugoio/hugo,https://github.com/gohugoio/hugo,Go,6488,57414,108250,57414,"blog-engine, cms, content-management-system, documentation-tool, go, hacktoberfest, hugo, static-site-generator",778,Other
+atom/atom,https://github.com/atom/atom,JavaScript,16912,56914,329179,56914,"atom, editor, electron, javascript, linux, macos, windows",626,Other
+sveltejs/svelte,https://github.com/sveltejs/svelte,TypeScript,2768,56401,68381,56401,"compiler, template, ui",515,Other
+kdn251/interviews,https://github.com/kdn251/interviews,Java,11945,56396,24091,56396,"algorithm, algorithm-challenges, algorithm-competitions, algorithms, coding-challenge, coding-challenges, coding-interview, coding-interviews, interview, interview-practice, interview-prep, interview-preparation, interview-questions, interviews, java, leetcode, leetcode-java, leetcode-questions, leetcode-solutions, technical-coding-interview",42,Other
+macrozheng/mall,https://github.com/macrozheng/mall,Java,24004,56349,57611,56349,"docker, elasticsearch, elk, java, mongodb, mybatis, mysql, rabbitmq, redis, spring, spring-boot, spring-cloud, spring-security, springboot, springcloud, swagger-ui",2,Other
+chartjs/Chart.js,https://github.com/chartjs/Chart.js,JavaScript,11381,56321,36300,56321,"canvas, chart, graph, hacktoberfest, html5, html5-charts, javascript",427,Web Application
+expressjs/express,https://github.com/expressjs/express,JavaScript,9514,56143,9388,56143,"express, javascript, nodejs, server",303,Other
+gin-gonic/gin,https://github.com/gin-gonic/gin,Go,6345,56068,2738,56068,"framework, gin, go, middleware, performance, router, server",361,"Framework, Web Application"
+tailwindlabs/tailwindcss,https://github.com/tailwindlabs/tailwindcss,JavaScript,2646,54154,62065,54154,"css, css-framework, functional-css, postcss, responsive, tailwindcss, utility-classes",218,"Framework, Web Application"
+nvm-sh/nvm,https://github.com/nvm-sh/nvm,Shell,5858,55810,3355,55810,"bash, install, lts, node, node-js, nodejs, nvm, nvmrc, posix, posix-compliant, shell, version-manager, zsh",346,Other
+socketio/socket.io,https://github.com/socketio/socket.io,TypeScript,9984,55328,15186,55328,,203,Other
