@@ -10,7 +10,7 @@ STARTS_NUMBER = 10000
 PER_PAGE = 1
 PAGE = 1
 
-HEADER = ['Project Name', 'URL', 'Language', 'Forks', 'Watchers', 'Size Byte', 'Stars', 'Topics',
+HEADER = ['Project Name', 'URL', 'Language', 'Forks', 'Open issues', 'Size Byte', 'Stars', 'Topics',
           'Contributors', 'Type']  # , 'Contributors'
 
 NOT_PROGRAMMING_LANGUAGE = ["Markdown", None]
@@ -64,13 +64,13 @@ def procces_item(items, http_headers):
         if language in NOT_PROGRAMMING_LANGUAGE:
             continue
         forks = item['forks']
-        watchers = item['watchers']
+        open_issues = item['open_issues']
         size = item['size']
         contributors = count_contributors_response(item['contributors_url'], http_headers)
         stars = item['stargazers_count']
         topic = f"{', '.join(map(str, item['topics']))}"
         project_category = f"{', '.join(map(str, project_category_check(item['topics'])))}"
-        data.append([project_name, url, language, forks, watchers, size, stars, topic, contributors, project_category])
+        data.append([project_name, url, language, forks, open_issues, size, stars, topic, contributors, project_category])
     return data
 
 
