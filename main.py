@@ -122,7 +122,7 @@ if __name__ == '__main__':
     # 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
     http_headers = {"Authorization": "token " + "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",
                     'Accept': 'application/vnd.github.v3+json'}
-    top = 1000
+    top = 100
     filename = F"github_info_stars_over_{STARTS_NUMBER}_top_{top}.csv"
 
     while True:
