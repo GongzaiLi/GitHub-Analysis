@@ -63,11 +63,11 @@ def procces_item(items, http_headers):
         language = item['language']
         if language in NOT_PROGRAMMING_LANGUAGE:
             continue
-        forks = item['forks']
-        open_issues = item['open_issues']
-        size = item['size']
-        contributors = count_contributors_response(item['contributors_url'], http_headers)
-        stars = item['stargazers_count']
+        forks = F"{item['forks']}"
+        open_issues = F"{item['open_issues']}"
+        size = F"{item['size']}"
+        contributors = F"{count_contributors_response(item['contributors_url'], http_headers)}"
+        stars = F"{item['stargazers_count']}"
         topic = f"{', '.join(map(str, item['topics']))}"
         project_category = f"{', '.join(map(str, project_category_check(item['topics'])))}"
         data.append([project_name, url, language, forks, open_issues, size, stars, topic, contributors, project_category])
