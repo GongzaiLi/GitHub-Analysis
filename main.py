@@ -62,7 +62,8 @@ def get_project_languages(languages_url, http_headers):
                 continue
             response_dic = res.json()
             languages_total_count = sum(response_dic.values())
-            languages = [f"{key}-{item / languages_total_count:.3f}%" for key, item in response_dic.items()]
+            languages = [f"{key}-{item / languages_total_count:.3f}%" for key, item in response_dic.items() if
+                         (item / languages_total_count) > 0.00099]
             return languages
         except Exception as e:
             print(F"{'-' * 20} get_project_languages Error Message {e} {'-' * 20}")
@@ -101,8 +102,6 @@ if __name__ == '__main__':
     # pip install requests
     # https://docs.github.com/en/rest/reference/search
     # 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 # token
-
-
 
     http_headers = {"Authorization": "token " + "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",
                     'Accept': 'application/vnd.github.v3+json'}
