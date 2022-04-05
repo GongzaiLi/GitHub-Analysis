@@ -1,2 +1,2 @@
 # GitHub-Analysis
-Analyse top 100 open source projects 
+Analyse top 1000 open source projects 
