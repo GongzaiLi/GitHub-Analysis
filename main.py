@@ -5,7 +5,7 @@ import time
 STARTS_NUMBER = 10000
 PER_PAGE = 1
 PAGE = 1
-Top = 500
+Top = 1000
 HEADER = ['Project Name', 'URL', 'Forks', 'Open issues', 'Size Byte', 'Stars', 'Topics', 'Contributors', 'Language:']
 NOT_PROGRAMMING_LANGUAGE = ["Markdown", None]
 
@@ -62,8 +62,11 @@ def get_project_languages(languages_url, http_headers):
                 continue
             response_dic = res.json()
             languages_total_count = sum(response_dic.values())
-            languages = [f"{key}={item / languages_total_count:.3f}%" for key, item in response_dic.items() if
-                         (item / languages_total_count) > 0.00099]
+            languages = []
+            for key, item in response_dic.items():
+                languages_percent = item / languages_total_count
+                if languages_percent > 0.00099:
+                    languages += [key, f"{languages_percent}%"]
             return languages
         except Exception as e:
             print(F"{'-' * 20} get_project_languages Error Message {e} {'-' * 20}")
