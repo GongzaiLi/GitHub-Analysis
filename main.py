@@ -5,9 +5,12 @@ import time
 STARTS_NUMBER = 10000
 PER_PAGE = 1
 PAGE = 1
-Top = 100
+Top = 1000
 HEADER = ['Project Name', 'URL', 'Forks', 'Open issues', 'Size Byte', 'Stars', 'Topics', 'Contributors', 'Language:']
 NOT_PROGRAMMING_LANGUAGE = ["Markdown", None]
+LANGUAGE_HEADER = ['Language Name', 'percent']
+HEADER_WRITER = True
+LANGUAGE_HEADER_WRITER = True
 
 
 def get_github_response(url, http_header):
@@ -67,6 +70,7 @@ def get_project_languages(languages_url, http_headers):
                 languages_percent = (item / languages_total_count) * 100
                 if languages_percent >= 0.001:
                     languages += [key, f"{languages_percent}%"]
+                    write_language_percent_in_csv([[key, f"{languages_percent}%"]])
             return languages
         except Exception as e:
             print(F"{'-' * 20} get_project_languages Error Message {e} {'-' * 20}")
@@ -92,13 +96,28 @@ def count_contributors_response(contributor_url, http_headers):
         return None
 
 
-def write_in_csv(data, page, filename):
+def write_project_in_csv(data):
+    global HEADER_WRITER, STARTS_NUMBER, Top, HEADER, PAGE
+    filename = F"github_projects_stars_over_{STARTS_NUMBER}_top_{Top}.csv"
     with open(filename, 'a+', encoding='UTF8', newline='') as f:
         writer = csv.writer(f)
-        if page == 1:
+        if HEADER_WRITER:
             writer.writerow(HEADER)
+            HEADER_WRITER = False
         writer.writerows(data)
-        print(f"{'=' * 35} write done in {page} {'=' * 35}")
+        print(f"{'=' * 35} write project done in {PAGE} {'=' * 35}")
+
+
+def write_language_percent_in_csv(language):
+    global LANGUAGE_HEADER_WRITER, STARTS_NUMBER, Top, HEADER, PAGE
+    filename = F"github_projects_stars_over_{STARTS_NUMBER}_top_{Top}_language_percent.csv"
+    with open(filename, 'a+', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
+        if LANGUAGE_HEADER_WRITER:
+            writer.writerow(LANGUAGE_HEADER)
+            LANGUAGE_HEADER_WRITER = False
+        writer.writerows(language)
+        print(f"{'=' * 35} write *language* done in {PAGE} {'=' * 35}")
 
 
 if __name__ == '__main__':
@@ -108,8 +127,6 @@ if __name__ == '__main__':
 
     http_headers = {"Authorization": "token " + "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",
                     'Accept': 'application/vnd.github.v3+json'}
-
-    filename = F"github_projects_stars_over_{STARTS_NUMBER}_top_{Top}.csv"
 
     while True:
         if PAGE == 1001 or PAGE > Top:
@@ -129,5 +146,5 @@ if __name__ == '__main__':
             exit(1)
 
         data = procces_item(response_items, http_headers)
-        write_in_csv(data, PAGE, filename)
+        write_project_in_csv(data)
         PAGE += 1
