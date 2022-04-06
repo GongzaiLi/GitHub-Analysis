@@ -111,8 +111,6 @@ if __name__ == '__main__':
 
     filename = F"github_projects_stars_over_{STARTS_NUMBER}_top_{Top}.csv"
 
-    res = requests.get("https://api.github.com/repos/freeCodeCamp/freeCodeCamp/languages", headers=http_headers)
-
     while True:
         if PAGE == 1001 or PAGE > Top:
             print(F"{'=' * 35}end{'=' * 35}")
